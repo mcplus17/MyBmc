@@ -1384,6 +1384,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-06-12 23:16:57 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_light_blue": {
     "criteria": {
       "has_iron_ingot": "2025-06-12 22:21:12 +0000"
@@ -1525,6 +1531,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_nugget": "2025-06-12 21:57:22 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:arachnophobes_nightmare": {
+    "criteria": {
+      "arachnophobes_nightmare_0": "2025-06-12 23:09:33 +0000"
     },
     "done": true
   },
@@ -2014,6 +2026,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-06-12 23:10:10 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder": {
     "criteria": {
       "has_iron_ingot": "2025-06-12 22:21:12 +0000"
@@ -2065,6 +2083,12 @@
   "minecraft:recipes/building_blocks/mangrove_wood": {
     "criteria": {
       "has_log": "2025-06-12 23:07:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-06-12 23:08:30 +0000"
     },
     "done": true
   },
@@ -2203,6 +2227,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_magenta": {
     "criteria": {
       "has_iron_ingot": "2025-06-12 22:21:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-06-12 23:10:10 +0000"
     },
     "done": true
   },
