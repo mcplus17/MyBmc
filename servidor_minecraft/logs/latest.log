@@ -209,3 +209,19 @@
 [12Jun2025 21:06:05.843] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Benja_By) moved too quickly! -1.5414175410035114,0.0,12.578267499268975
 [12Jun2025 21:06:05.844] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Benja_By) moved too quickly! -1.4710174030265648,0.0,12.959631569908112
 [12Jun2025 21:06:05.845] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Benja_By) moved too quickly! -1.3888047933193377,0.0,13.338136076939008
+[12Jun2025 21:07:43.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By was slain by Scarlet Persecutor
+[12Jun2025 21:07:43.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has made the advancement [Your First Grave]
+[12Jun2025 21:07:43.889] [Server thread/INFO] [tombstone/]: The player Benja_By has successfully been saved
+[12Jun2025 21:08:03.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Benja_By a server operator
+[12Jun2025 21:08:08.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set the time to 1000]
+[12Jun2025 21:09:28.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has reached the goal [Here They Come]
+[12Jun2025 21:10:19.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By was doomed to fall by Scarlet Persecutor
+[12Jun2025 21:10:19.503] [Server thread/INFO] [tombstone/]: The player Benja_By has successfully been saved
+[12Jun2025 21:12:11.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [This Must be a Sign!]
+[12Jun2025 21:12:21.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By was slain by Scarlet Persecutor
+[12Jun2025 21:12:21.580] [Server thread/INFO] [tombstone/]: The player Benja_By has successfully been saved
+[12Jun2025 21:12:35.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: The difficulty has been set to Peaceful]
+[12Jun2025 21:12:40.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: The difficulty has been set to Normal]
+[12Jun2025 21:14:04.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has made the advancement [Knowledge of Death]
+[12Jun2025 21:14:05.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has made the advancement [Funeral Theft]
+[12Jun2025 21:16:42.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has made the advancement [Monster Hunter]
