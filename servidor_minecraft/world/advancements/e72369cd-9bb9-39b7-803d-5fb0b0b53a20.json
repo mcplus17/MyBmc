@@ -42,6 +42,7 @@
       "minecraft:beach": "2025-06-12 21:02:18 +0000",
       "minecraft:river": "2025-06-12 20:59:36 +0000",
       "minecraft:swamp": "2025-06-12 19:23:23 +0000",
+      "minecraft:cold_ocean": "2025-06-12 21:52:19 +0000",
       "minecraft:forest": "2025-06-12 21:05:53 +0000",
       "minecraft:ocean": "2025-06-12 21:05:28 +0000",
       "minecraft:windswept_savanna": "2025-06-12 21:06:22 +0000",
@@ -1090,6 +1091,54 @@
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-06-12 21:40:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_nugget": "2025-06-12 21:57:22 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce": {
+    "criteria": {
+      "has_iron_nugget": "2025-06-12 21:57:22 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/goblet": {
+    "criteria": {
+      "has_iron_nugget": "2025-06-12 21:57:22 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/iron_gate": {
+    "criteria": {
+      "has_iron_nugget": "2025-06-12 21:57:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_nugget": "2025-06-12 21:57:22 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bubble_blower": {
+    "criteria": {
+      "has_iron_nugget": "2025-06-12 21:57:22 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce_soul": {
+    "criteria": {
+      "has_iron_nugget": "2025-06-12 21:57:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-06-12 21:57:22 +0000"
     },
     "done": true
   },

@@ -268,3 +268,21 @@
 [12Jun2025 21:43:28.821] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [12Jun2025 21:47:38.173] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Courtney'/14656, l='ServerLevel[world]', x=-573.28, y=48.17, z=859.48] died, message: 'Courtney was slain by Zombie'
 [12Jun2025 21:47:38.174] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Courtney'/14656, l='ServerLevel[world]', x=-573.28, y=48.17, z=859.48] died: Courtney was slain by Zombie
+[12Jun2025 21:48:19.431] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Benja_By[/100.101.28.28:35146] logged in with entity id 15258 at (-566.4875000119209, 70.0, 877.289236046618)
+[12Jun2025 21:48:19.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By joined the game
+[12Jun2025 21:48:21.476] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Benja_By (18)
+[12Jun2025 21:48:21.476] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Benja_By
+[12Jun2025 21:48:31.499] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e72369cd-9bb9-39b7-803d-5fb0b0b53a20
+[12Jun2025 21:48:32.502] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e72369cd-9bb9-39b7-803d-5fb0b0b53a20
+[12Jun2025 21:48:32.502] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Benja_By (e72369cd-9bb9-39b7-803d-5fb0b0b53a20) successfully connected to voice chat
+[12Jun2025 21:48:59.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set the time to 1000]
+[12Jun2025 21:50:04.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By was impaled by Drowned
+[12Jun2025 21:50:04.627] [Server thread/INFO] [tombstone/]: The player Meu_By has successfully been saved
+[12Jun2025 21:50:48.160] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-720, y=-52, z=1053}
+[12Jun2025 21:51:33.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [Where Is The Stone Pen?]
+[12Jun2025 21:51:35.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By was impaled by Drowned
+[12Jun2025 21:51:35.526] [Server thread/INFO] [tombstone/]: The player Meu_By has successfully been saved
+[12Jun2025 21:52:09.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [Knowledge of Death]
+[12Jun2025 21:52:09.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has reached the goal [Here They Come]
+[12Jun2025 21:53:19.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [Amateur Archaeologist]
+[12Jun2025 21:56:14.870] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-315, y=47, z=911} BlockPos{x=-315, y=46, z=911}
