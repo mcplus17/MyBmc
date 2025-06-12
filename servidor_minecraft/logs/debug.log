@@ -3779,3 +3779,15 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [12Jun2025 21:56:14.870] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-315, y=47, z=911} BlockPos{x=-315, y=46, z=911}
 [12Jun2025 21:57:39.734] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [12Jun2025 21:57:39.742] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jun2025 21:59:07.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Benja_By> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[12Jun2025 21:59:08.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Benja_By> file:///home/benja/Documents/curseforge/minecraft/Instances/M&B/mods/BetterThirdPerson-Forge-1.20-1.9.0.jar
+[12Jun2025 21:59:08.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Benja_By> file:///home/benja/Documents/curseforge/minecraft/Instances/M&B/mods/BetterThirdPerson-Forge-1.20-1.9.0.jar
+[12Jun2025 22:01:31.022] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_nether
+[12Jun2025 22:02:25.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Creative Mode]
+[12Jun2025 22:02:39.744] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jun2025 22:02:39.753] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jun2025 22:04:41.733] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-756, y=-16, z=867}
+[12Jun2025 22:04:42.336] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-720, y=-52, z=1053}
+[12Jun2025 22:05:36.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Survival Mode]
+[12Jun2025 22:07:39.736] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jun2025 22:07:39.743] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
