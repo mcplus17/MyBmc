@@ -3805,3 +3805,28 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [12Jun2025 22:17:22.022] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_end
 [12Jun2025 22:17:39.738] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [12Jun2025 22:17:39.745] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jun2025 22:17:58.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has reached the goal [Chain Death]
+[12Jun2025 22:17:58.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By was slain by Vindicator
+[12Jun2025 22:17:58.619] [Server thread/DEBUG] [tombstone/]: A new grave of the player Meu_By was created at position [x:-1146, y:66, z:578, dim:minecraft:overworld]
+[12Jun2025 22:17:58.629] [Server thread/INFO] [tombstone/]: The player Meu_By has successfully been saved
+[12Jun2025 22:18:02.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By was slain by Vindicator
+[12Jun2025 22:18:02.969] [Server thread/DEBUG] [tombstone/]: A new grave of the player Benja_By was created at position [x:-1159, y:67, z:577, dim:minecraft:overworld]
+[12Jun2025 22:18:02.975] [Server thread/INFO] [tombstone/]: The player Benja_By has successfully been saved
+[12Jun2025 22:19:46.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has made the advancement [Not Today, Thank You]
+[12Jun2025 22:20:31.013] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:overworld
+[12Jun2025 22:21:12.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has made the advancement [Acquire Hardware]
+[12Jun2025 22:22:39.737] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jun2025 22:22:39.744] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jun2025 22:23:40.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By was slain by Vex
+[12Jun2025 22:23:40.073] [Server thread/DEBUG] [tombstone/]: A new grave of the player Meu_By was created at position [x:-1164, y:74, z:533, dim:minecraft:overworld]
+[12Jun2025 22:23:40.075] [Server thread/INFO] [tombstone/]: The player Meu_By has successfully been saved
+[12Jun2025 22:24:13.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Teleported Meu_By to Benja_By]
+[12Jun2025 22:25:23.013] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:overworld
+[12Jun2025 22:26:10.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By was slain by Vex
+[12Jun2025 22:26:10.872] [Server thread/DEBUG] [tombstone/]: A new grave of the player Benja_By was created at position [x:-1179, y:74, z:519, dim:minecraft:overworld]
+[12Jun2025 22:26:10.874] [Server thread/INFO] [tombstone/]: The player Benja_By has successfully been saved
+[12Jun2025 22:26:13.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By was slain by Vex
+[12Jun2025 22:26:13.572] [Server thread/DEBUG] [tombstone/]: A new grave of the player Meu_By was created at position [x:-1187, y:74, z:513, dim:minecraft:overworld]
+[12Jun2025 22:26:13.574] [Server thread/INFO] [tombstone/]: The player Meu_By has successfully been saved
+[12Jun2025 22:27:39.727] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jun2025 22:27:39.734] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
