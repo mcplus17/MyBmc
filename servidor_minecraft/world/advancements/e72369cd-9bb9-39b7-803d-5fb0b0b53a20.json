@@ -40,6 +40,7 @@
       "minecraft:birch_forest": "2025-06-12 21:39:22 +0000",
       "minecraft:windswept_hills": "2025-06-12 21:07:35 +0000",
       "minecraft:beach": "2025-06-12 21:02:18 +0000",
+      "minecraft:dark_forest": "2025-06-12 22:10:05 +0000",
       "minecraft:river": "2025-06-12 20:59:36 +0000",
       "minecraft:swamp": "2025-06-12 19:23:23 +0000",
       "minecraft:cold_ocean": "2025-06-12 21:52:19 +0000",
@@ -747,6 +748,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-06-12 21:38:38 +0000",
+      "minecraft:vindicator": "2025-06-12 22:13:37 +0000",
+      "minecraft:creeper": "2025-06-12 22:10:44 +0000",
       "minecraft:enderman": "2025-06-12 21:16:42 +0000",
       "minecraft:zombie": "2025-06-12 21:20:25 +0000",
       "minecraft:drowned": "2025-06-12 21:24:43 +0000"
@@ -1095,6 +1098,18 @@
     },
     "done": true
   },
+  "supplementaries:recipes/spring_launcher": {
+    "criteria": {
+      "has_gunpowder": "2025-06-12 22:10:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-06-12 22:11:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
     "criteria": {
       "has_pink_dye": "2025-06-12 22:05:00 +0000"
@@ -1134,6 +1149,12 @@
   "supplementaries:recipes/sconce": {
     "criteria": {
       "has_iron_nugget": "2025-06-12 21:57:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-06-12 22:13:05 +0000"
     },
     "done": true
   },
@@ -1185,6 +1206,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-06-12 22:13:37 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/bubble_blower": {
     "criteria": {
       "has_iron_nugget": "2025-06-12 21:57:22 +0000"
@@ -1218,6 +1245,24 @@
   "supplementaries:recipes/sconce_soul": {
     "criteria": {
       "has_iron_nugget": "2025-06-12 21:57:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-06-12 22:10:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2025-06-12 22:11:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-06-12 22:10:44 +0000"
     },
     "done": true
   },

@@ -293,3 +293,8 @@
 [12Jun2025 22:04:41.733] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-756, y=-16, z=867}
 [12Jun2025 22:04:42.336] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-720, y=-52, z=1053}
 [12Jun2025 22:05:36.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Survival Mode]
+[12Jun2025 22:09:05.008] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Meu_By moved too quickly! -10.068786015766705,0.07840000152587834,-2.1228643528332896
+[12Jun2025 22:13:37.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has made the advancement [Ambush]
+[12Jun2025 22:15:19.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [Ambush]
+[12Jun2025 22:17:06.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By was slain by Vindicator
+[12Jun2025 22:17:06.175] [Server thread/INFO] [tombstone/]: The player Meu_By has successfully been saved

@@ -39,6 +39,7 @@
     "criteria": {
       "minecraft:birch_forest": "2025-06-12 21:39:30 +0000",
       "minecraft:beach": "2025-06-12 21:00:59 +0000",
+      "minecraft:dark_forest": "2025-06-12 22:09:28 +0000",
       "minecraft:river": "2025-06-12 21:01:58 +0000",
       "minecraft:swamp": "2025-06-12 20:53:58 +0000",
       "minecraft:cold_ocean": "2025-06-12 21:41:59 +0000",
@@ -622,6 +623,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-06-12 22:13:09 +0000",
+      "minecraft:vindicator": "2025-06-12 22:15:19 +0000",
       "minecraft:zombie": "2025-06-12 21:20:23 +0000",
       "minecraft:drowned": "2025-06-12 21:25:17 +0000"
     },
@@ -645,6 +648,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-06-12 22:15:25 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flint_block": {
     "criteria": {
       "has_flint": "2025-06-12 21:30:20 +0000"
@@ -663,9 +672,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-06-12 22:15:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-06-12 21:18:09 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce": {
+    "criteria": {
+      "has_torch": "2025-06-12 22:11:56 +0000"
     },
     "done": true
   },
@@ -792,6 +813,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-06-12 21:02:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-06-12 22:15:25 +0000"
     },
     "done": true
   },
@@ -993,6 +1020,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-06-12 22:15:25 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/pedestal": {
     "criteria": {
       "has_stone_bricks": "2025-06-12 21:30:10 +0000"
@@ -1104,6 +1137,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_green": {
     "criteria": {
       "has_iron_ingot": "2025-06-12 21:23:01 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-06-12 22:15:19 +0000"
     },
     "done": true
   },
