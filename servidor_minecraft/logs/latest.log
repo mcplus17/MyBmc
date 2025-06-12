@@ -243,3 +243,28 @@
 [12Jun2025 21:34:38.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has made the advancement [Ashes 'n Bones]
 [12Jun2025 21:35:19.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Meu_By> t
 [12Jun2025 21:37:27.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [Diamonds!]
+[12Jun2025 21:39:57.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has made the advancement [Amateur Archaeologist]
+[12Jun2025 21:41:56.154] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player e72369cd-9bb9-39b7-803d-5fb0b0b53a20 timed out
+[12Jun2025 21:41:56.154] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Benja_By
+[12Jun2025 21:41:56.155] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Benja_By
+[12Jun2025 21:41:58.474] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Benja_By lost connection: Disconnected
+[12Jun2025 21:41:58.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By left the game
+[12Jun2025 21:41:58.477] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Benja_By
+[12Jun2025 21:42:15.687] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Benja_By[/100.101.28.28:49352] logged in with entity id 12619 at (-567.0098155491905, 69.0, 873.1495638543952)
+[12Jun2025 21:42:15.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By joined the game
+[12Jun2025 21:42:16.395] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Benja_By (18)
+[12Jun2025 21:42:16.396] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Benja_By
+[12Jun2025 21:42:26.503] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e72369cd-9bb9-39b7-803d-5fb0b0b53a20
+[12Jun2025 21:42:27.502] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e72369cd-9bb9-39b7-803d-5fb0b0b53a20
+[12Jun2025 21:42:27.502] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Benja_By (e72369cd-9bb9-39b7-803d-5fb0b0b53a20) successfully connected to voice chat
+[12Jun2025 21:42:51.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By was impaled by Drowned
+[12Jun2025 21:42:51.893] [Server thread/INFO] [tombstone/]: The player Meu_By has successfully been saved
+[12Jun2025 21:42:54.461] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player e72369cd-9bb9-39b7-803d-5fb0b0b53a20 timed out
+[12Jun2025 21:42:54.461] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Benja_By
+[12Jun2025 21:42:54.462] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Benja_By
+[12Jun2025 21:43:28.785] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Benja_By lost connection: Timed out
+[12Jun2025 21:43:28.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By left the game
+[12Jun2025 21:43:28.786] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Benja_By
+[12Jun2025 21:43:28.821] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[12Jun2025 21:47:38.173] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Courtney'/14656, l='ServerLevel[world]', x=-573.28, y=48.17, z=859.48] died, message: 'Courtney was slain by Zombie'
+[12Jun2025 21:47:38.174] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Courtney'/14656, l='ServerLevel[world]', x=-573.28, y=48.17, z=859.48] died: Courtney was slain by Zombie
