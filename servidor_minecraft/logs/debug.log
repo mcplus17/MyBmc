@@ -3861,3 +3861,20 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [12Jun2025 22:47:38.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has made the advancement [Life turned out to be a comedy]
 [12Jun2025 22:47:39.734] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [12Jun2025 22:47:39.742] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jun2025 22:48:11.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Spectator Mode]
+[12Jun2025 22:50:18.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [Ashes 'n Bones]
+[12Jun2025 22:50:27.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Survival Mode]
+[12Jun2025 22:50:29.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By was slain by Restless Spirit
+[12Jun2025 22:50:29.373] [Server thread/DEBUG] [tombstone/]: A new grave of the player Meu_By was created at position [x:-1244, y:-9, z:456, dim:minecraft:overworld]
+[12Jun2025 22:50:29.377] [Server thread/INFO] [tombstone/]: The player Meu_By has successfully been saved
+[12Jun2025 22:50:38.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Teleported Meu_By to Benja_By]
+[12Jun2025 22:52:39.745] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jun2025 22:52:39.752] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jun2025 22:52:41.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [Suit Up]
+[12Jun2025 22:53:04.024] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_end
+[12Jun2025 22:55:40.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has made the advancement [Chest Slayer]
+[12Jun2025 22:56:37.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Spectator Mode]
+[12Jun2025 22:57:29.013] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:overworld
+[12Jun2025 22:57:39.734] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jun2025 22:57:39.740] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jun2025 22:57:40.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Survival Mode]
