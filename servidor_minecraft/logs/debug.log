@@ -3340,3 +3340,25 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [12Jun2025 21:14:04.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has made the advancement [Knowledge of Death]
 [12Jun2025 21:14:05.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has made the advancement [Funeral Theft]
 [12Jun2025 21:16:42.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has made the advancement [Monster Hunter]
+[12Jun2025 21:17:39.747] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jun2025 21:17:39.754] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jun2025 21:17:47.013] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:overworld
+[12Jun2025 21:19:10.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has made the advancement [Sweet Dreams]
+[12Jun2025 21:19:33.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has made the advancement [The Wind Darkening]
+[12Jun2025 21:20:23.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [Monster Hunter]
+[12Jun2025 21:20:23.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [A Strange Grave Dust]
+[12Jun2025 21:20:25.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has made the advancement [A Strange Grave Dust]
+[12Jun2025 21:20:47.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has made the advancement [Knowledge raises the soul]
+[12Jun2025 21:21:15.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [Sweet Dreams]
+[12Jun2025 21:21:53.020] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_nether
+[12Jun2025 21:21:58.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Meu_By> EE
+[12Jun2025 21:22:39.735] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jun2025 21:22:39.743] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jun2025 21:23:01.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [Acquire Hardware]
+[12Jun2025 21:24:38.019] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_nether
+[12Jun2025 21:25:22.019] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_end
+[12Jun2025 21:25:24.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [Not Today, Thank You]
+[12Jun2025 21:25:48.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By was impaled by Drowned
+[12Jun2025 21:25:48.271] [Server thread/DEBUG] [tombstone/]: A new grave of the player Benja_By was created at position [x:-289, y:56, z:781, dim:minecraft:overworld]
+[12Jun2025 21:25:48.274] [Server thread/INFO] [tombstone/]: The player Benja_By has successfully been saved
+[12Jun2025 21:26:48.013] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:overworld
