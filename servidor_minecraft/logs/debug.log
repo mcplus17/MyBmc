@@ -3362,3 +3362,17 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [12Jun2025 21:25:48.271] [Server thread/DEBUG] [tombstone/]: A new grave of the player Benja_By was created at position [x:-289, y:56, z:781, dim:minecraft:overworld]
 [12Jun2025 21:25:48.274] [Server thread/INFO] [tombstone/]: The player Benja_By has successfully been saved
 [12Jun2025 21:26:48.013] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:overworld
+[12Jun2025 21:27:39.735] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jun2025 21:27:39.742] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jun2025 21:29:09.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [It Belongs in a Museum]
+[12Jun2025 21:29:13.223] [Server thread/DEBUG] [mixin/]: Mixing HoldingPlayerMixin from moonlight-common.mixins.json into net.minecraft.world.level.saveddata.maps.MapItemSavedData$HoldingPlayer
+[12Jun2025 21:29:13.232] [Server thread/DEBUG] [mixin/]: Mixing MapDecorationMixin from alexscaves.mixins.json into net.minecraft.world.level.saveddata.maps.MapDecoration
+[12Jun2025 21:32:39.745] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jun2025 21:32:39.753] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jun2025 21:34:28.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By was slain by Door Knight
+[12Jun2025 21:34:28.023] [Server thread/DEBUG] [tombstone/]: A new grave of the player Benja_By was created at position [x:-425, y:65, z:899, dim:minecraft:overworld]
+[12Jun2025 21:34:28.028] [Server thread/INFO] [tombstone/]: The player Benja_By has successfully been saved
+[12Jun2025 21:34:38.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has made the advancement [Ashes 'n Bones]
+[12Jun2025 21:35:07.022] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_end
+[12Jun2025 21:35:19.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Meu_By> t
+[12Jun2025 21:37:27.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [Diamonds!]
