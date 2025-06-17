@@ -212,3 +212,8 @@
 [17Jun2025 18:42:02.132] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1848, y=3, z=-584}
 [17Jun2025 18:46:54.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Teleported Benja_By to Meu_By]
 [17Jun2025 18:51:29.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Survival Mode]
+[17Jun2025 18:56:12.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Teleported Meu_By to Benja_By]
+[17Jun2025 18:56:36.241] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2599, y=7, z=-4455}
+[17Jun2025 19:01:08.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By was slain by Vex
+[17Jun2025 19:01:09.002] [Server thread/INFO] [tombstone/]: The player Meu_By has successfully been saved
+[17Jun2025 19:01:20.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Teleported Meu_By to Benja_By]
