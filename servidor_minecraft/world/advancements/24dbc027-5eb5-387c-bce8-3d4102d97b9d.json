@@ -48,7 +48,9 @@
       "minecraft:cold_ocean": "2025-06-12 21:41:59 +0000",
       "minecraft:forest": "2025-06-12 21:05:22 +0000",
       "minecraft:lush_caves": "2025-06-12 22:41:06 +0000",
+      "minecraft:windswept_forest": "2025-06-17 02:17:26 +0000",
       "minecraft:ocean": "2025-06-12 21:02:22 +0000",
+      "minecraft:jungle": "2025-06-17 02:19:53 +0000",
       "minecraft:windswept_savanna": "2025-06-12 21:05:39 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-12 21:04:47 +0000",
       "minecraft:deep_dark": "2025-06-16 19:45:17 +0000",
@@ -2660,6 +2662,24 @@
   "minecraft:recipes/transportation/bamboo_chest_raft": {
     "criteria": {
       "has_boat": "2025-06-16 22:43:47 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/slice_map": {
+    "criteria": {
+      "has_map": "2025-06-17 02:17:34 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-06-17 02:18:32 +0000"
+    },
+    "done": false
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-06-17 02:18:32 +0000"
     },
     "done": true
   },
