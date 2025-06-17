@@ -37,6 +37,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-06-17 02:53:24 +0000",
+      "minecraft:taiga": "2025-06-17 02:50:51 +0000",
       "minecraft:deep_ocean": "2025-06-16 22:22:31 +0000",
       "minecraft:frozen_river": "2025-06-17 02:48:48 +0000",
       "minecraft:birch_forest": "2025-06-12 21:39:30 +0000",
@@ -2675,15 +2677,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/snow": {
+  "supplementaries:recipes/slice_map": {
     "criteria": {
-      "has_snowball": "2025-06-17 02:49:30 +0000"
+      "has_map": "2025-06-17 02:17:34 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/paper": {
+  "betterdungeons:all_dungeons": {
     "criteria": {
-      "has_reeds": "2025-06-17 02:48:58 +0000"
+      "in_better_spider_dungeon": "2025-06-17 02:18:32 +0000"
+    },
+    "done": false
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-06-17 02:18:32 +0000"
     },
     "done": true
   },
@@ -2699,24 +2707,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/sugar_from_sugar_cane": {
-    "criteria": {
-      "has_sugar_cane": "2025-06-17 02:48:58 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/slice_map": {
-    "criteria": {
-      "has_map": "2025-06-17 02:17:34 +0000"
-    },
-    "done": true
-  },
-  "betterdungeons:all_dungeons": {
-    "criteria": {
-      "in_better_spider_dungeon": "2025-06-17 02:18:32 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/decorations/light_gray_banner": {
     "criteria": {
       "has_light_gray_wool": "2025-06-17 02:23:26 +0000"
@@ -2729,15 +2719,39 @@
     },
     "done": true
   },
-  "betterdungeons:spider_dungeon": {
+  "minecraft:recipes/misc/paper": {
     "criteria": {
-      "in_better_spider_dungeon": "2025-06-17 02:18:32 +0000"
+      "has_reeds": "2025-06-17 02:48:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-06-17 02:48:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-06-17 02:49:30 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2025-06-17 02:49:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-06-17 02:51:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-06-17 02:51:29 +0000"
     },
     "done": true
   },

@@ -248,3 +248,46 @@
 [17Jun2025 02:46:34.224] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Benja_By) moved wrongly! 1.690241157474702
 [17Jun2025 02:48:17.962] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:forlorn_hollows at 7560 -56 -8556 in 1s
 [17Jun2025 02:50:50.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Teleported Meu_By to Benja_By]
+[17Jun2025 02:54:05.099] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 24dbc027-5eb5-387c-bce8-3d4102d97b9d timed out
+[17Jun2025 02:54:05.100] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Meu_By
+[17Jun2025 02:54:05.100] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Meu_By
+[17Jun2025 02:54:43.987] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Meu_By lost connection: Timed out
+[17Jun2025 02:54:43.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By left the game
+[17Jun2025 02:54:43.989] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Meu_By
+[17Jun2025 02:56:31.898] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/normal
+[17Jun2025 02:56:31.899] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/vampirism/totem
+[17Jun2025 02:56:31.905] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/bounty/plains
+[17Jun2025 02:56:32.436] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Benja_By moved too quickly! 0.34883386097089897,-3.225000083833663,-9.692716421767727
+[17Jun2025 02:56:37.743] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/vampirism/totem
+[17Jun2025 02:56:37.746] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/bounty/plains
+[17Jun2025 02:56:37.749] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/normal
+[17Jun2025 02:57:10.496] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2737, y=-46, z=-4035}
+[17Jun2025 02:57:10.496] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2736, y=-46, z=-4035}
+[17Jun2025 02:58:03.949] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Meu_By[/100.86.66.124:53052] logged in with entity id 22024 at (2626.924547187073, 68.0, -3841.5145713503116)
+[17Jun2025 02:58:03.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By joined the game
+[17Jun2025 02:58:05.039] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Meu_By (18)
+[17Jun2025 02:58:05.040] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Meu_By
+[17Jun2025 02:58:08.115] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=2815, y=-49, z=-3864}
+[17Jun2025 02:58:08.116] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=2815, y=-49, z=-3863}
+[17Jun2025 02:58:08.116] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=2815, y=-49, z=-3862}
+[17Jun2025 02:58:08.116] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2816, y=-49, z=-3861}
+[17Jun2025 02:58:16.387] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 24dbc027-5eb5-387c-bce8-3d4102d97b9d
+[17Jun2025 02:58:17.487] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 24dbc027-5eb5-387c-bce8-3d4102d97b9d
+[17Jun2025 02:58:17.488] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Meu_By (24dbc027-5eb5-387c-bce8-3d4102d97b9d) successfully connected to voice chat
+[17Jun2025 02:59:19.867] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player e72369cd-9bb9-39b7-803d-5fb0b0b53a20 timed out
+[17Jun2025 02:59:19.867] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Benja_By
+[17Jun2025 02:59:19.868] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Benja_By
+[17Jun2025 02:59:59.090] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Benja_By lost connection: Timed out
+[17Jun2025 02:59:59.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By left the game
+[17Jun2025 02:59:59.091] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Benja_By
+[17Jun2025 03:00:27.742] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Benja_By[/100.101.28.28:39372] logged in with entity id 23011 at (2660.904775441918, 67.0, -4223.685859487219)
+[17Jun2025 03:00:27.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By joined the game
+[17Jun2025 03:00:28.288] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Benja_By (18)
+[17Jun2025 03:00:28.289] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Benja_By
+[17Jun2025 03:00:32.972] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e72369cd-9bb9-39b7-803d-5fb0b0b53a20
+[17Jun2025 03:00:33.948] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e72369cd-9bb9-39b7-803d-5fb0b0b53a20
+[17Jun2025 03:00:33.949] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Benja_By (e72369cd-9bb9-39b7-803d-5fb0b0b53a20) successfully connected to voice chat
+[17Jun2025 03:00:46.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [Funeral Theft]
+[17Jun2025 03:00:58.613] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/vampirism/totem
+[17Jun2025 03:00:58.616] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/bounty/plains
+[17Jun2025 03:00:58.619] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/normal
