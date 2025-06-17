@@ -340,3 +340,17 @@
 [17Jun2025 19:33:22.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By joined the game
 [17Jun2025 19:33:22.963] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Benja_By (18)
 [17Jun2025 19:33:22.964] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Benja_By
+[17Jun2025 19:33:29.927] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e72369cd-9bb9-39b7-803d-5fb0b0b53a20
+[17Jun2025 19:33:30.917] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e72369cd-9bb9-39b7-803d-5fb0b0b53a20
+[17Jun2025 19:33:30.919] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Benja_By (e72369cd-9bb9-39b7-803d-5fb0b0b53a20) successfully connected to voice chat
+[17Jun2025 19:34:29.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Teleported Meu_By to Benja_By]
+[17Jun2025 19:34:49.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By withered away whilst fighting Nightmare Stalker
+[17Jun2025 19:34:50.341] [Server thread/INFO] [tombstone/]: The player Meu_By has successfully been saved
+[17Jun2025 19:35:00.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Teleported Meu_By to Benja_By]
+[17Jun2025 19:35:07.521] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Kitty'/20794, l='ServerLevel[world]', x=2889.70, y=97.77, z=-4559.65] died, message: 'Kitty was slain by Zombie Clown'
+[17Jun2025 19:35:07.522] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Kitty'/20794, l='ServerLevel[world]', x=2889.70, y=97.77, z=-4559.65] died: Kitty was slain by Zombie Clown
+[17Jun2025 19:35:25.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [The Most Useful Key]
+[17Jun2025 19:35:39.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has reached the goal [A Fast Comeback]
+[17Jun2025 19:35:49.599] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2370, y=14, z=-4731}
+[17Jun2025 19:38:55.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [Into Fire]
+[17Jun2025 19:43:31.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Spectator Mode]
