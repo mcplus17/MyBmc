@@ -2905,5 +2905,17 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/defeat_gloomoth": {
+    "criteria": {
+      "killed": "2025-06-17 04:25:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_bricks": {
+    "criteria": {
+      "has_packed_mud": "2025-06-17 04:23:52 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
