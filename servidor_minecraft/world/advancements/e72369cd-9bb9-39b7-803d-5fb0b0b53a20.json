@@ -3279,6 +3279,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-06-17 19:01:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-06-17 19:01:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/brew_potion": {
     "criteria": {
       "potion": "2025-06-17 19:03:39 +0000"
@@ -3291,15 +3303,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
-      "has_iron_block": "2025-06-17 19:01:38 +0000"
+      "has_log": "2025-06-17 19:15:27 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/anvil": {
+  "minecraft:recipes/decorations/composter": {
     "criteria": {
-      "has_iron_block": "2025-06-17 19:01:38 +0000"
+      "has_wood_slab": "2025-06-17 19:15:31 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bamboo_spikes": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-06-17 19:15:31 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/item_shelf": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-06-17 19:15:31 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/jar": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-06-17 19:15:31 +0000"
     },
     "done": true
   },
