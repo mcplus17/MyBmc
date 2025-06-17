@@ -38,6 +38,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:deep_ocean": "2025-06-16 22:22:31 +0000",
+      "minecraft:frozen_river": "2025-06-17 02:48:48 +0000",
       "minecraft:birch_forest": "2025-06-12 21:39:30 +0000",
       "minecraft:savanna_plateau": "2025-06-17 02:26:10 +0000",
       "minecraft:beach": "2025-06-12 21:00:59 +0000",
@@ -45,11 +46,16 @@
       "minecraft:sparse_jungle": "2025-06-17 02:27:13 +0000",
       "minecraft:river": "2025-06-12 21:01:58 +0000",
       "minecraft:stony_shore": "2025-06-16 22:20:10 +0000",
+      "minecraft:snowy_plains": "2025-06-17 02:47:46 +0000",
+      "minecraft:snowy_taiga": "2025-06-17 02:48:53 +0000",
       "minecraft:swamp": "2025-06-12 20:53:58 +0000",
       "minecraft:grove": "2025-06-16 19:51:45 +0000",
       "minecraft:cold_ocean": "2025-06-12 21:41:59 +0000",
       "minecraft:forest": "2025-06-12 21:05:22 +0000",
       "minecraft:lush_caves": "2025-06-12 22:41:06 +0000",
+      "minecraft:deep_cold_ocean": "2025-06-17 02:42:07 +0000",
+      "minecraft:frozen_ocean": "2025-06-17 02:42:46 +0000",
+      "minecraft:deep_frozen_ocean": "2025-06-17 02:42:39 +0000",
       "minecraft:windswept_forest": "2025-06-17 02:17:26 +0000",
       "minecraft:ocean": "2025-06-12 21:02:22 +0000",
       "minecraft:jungle": "2025-06-17 02:19:53 +0000",
@@ -2669,6 +2675,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-06-17 02:49:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-06-17 02:48:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-06-17 02:23:19 +0000"
@@ -2678,6 +2696,12 @@
   "minecraft:recipes/decorations/light_gray_bed": {
     "criteria": {
       "has_light_gray_wool": "2025-06-17 02:23:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-06-17 02:48:58 +0000"
     },
     "done": true
   },
@@ -2708,6 +2732,12 @@
   "betterdungeons:spider_dungeon": {
     "criteria": {
       "in_better_spider_dungeon": "2025-06-17 02:18:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-06-17 02:49:30 +0000"
     },
     "done": true
   },
