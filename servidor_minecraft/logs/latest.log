@@ -235,3 +235,15 @@
 [17Jun2025 22:17:16.734] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 24dbc027-5eb5-387c-bce8-3d4102d97b9d
 [17Jun2025 22:17:17.666] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 24dbc027-5eb5-387c-bce8-3d4102d97b9d
 [17Jun2025 22:17:17.666] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Meu_By (24dbc027-5eb5-387c-bce8-3d4102d97b9d) successfully connected to voice chat
+[17Jun2025 22:22:01.019] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Siu'/661, l='ServerLevel[world]', x=2839.37, y=96.00, z=-4540.23] died, message: 'Siu was slain by Zombie'
+[17Jun2025 22:22:01.019] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Siu'/661, l='ServerLevel[world]', x=2839.37, y=96.00, z=-4540.23] died: Siu was slain by Zombie
+[17Jun2025 22:28:47.124] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Meu_By lost connection: Disconnected
+[17Jun2025 22:28:47.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By left the game
+[17Jun2025 22:28:47.125] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Meu_By
+[17Jun2025 22:29:43.580] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Meu_By[/100.86.66.124:52939] logged in with entity id 13170 at (7296.686165331738, -47.0, -8251.625197277286)
+[17Jun2025 22:29:43.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By joined the game
+[17Jun2025 22:29:44.754] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Meu_By (18)
+[17Jun2025 22:29:44.755] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Meu_By
+[17Jun2025 22:29:53.085] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 24dbc027-5eb5-387c-bce8-3d4102d97b9d
+[17Jun2025 22:29:54.083] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 24dbc027-5eb5-387c-bce8-3d4102d97b9d
+[17Jun2025 22:29:54.084] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Meu_By (24dbc027-5eb5-387c-bce8-3d4102d97b9d) successfully connected to voice chat
