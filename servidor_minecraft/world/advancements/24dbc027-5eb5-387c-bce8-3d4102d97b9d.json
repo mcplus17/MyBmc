@@ -2956,17 +2956,47 @@
     },
     "done": true
   },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-06-17 19:35:25 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/teleport_to_grave": {
     "criteria": {
       "coded_trigger": "2025-06-17 19:35:39 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/enchant_grave_key": {
+  "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
-      "has_upgraded_grave_key": "2025-06-17 19:35:25 +0000"
+      "blaze_rod": "2025-06-17 19:38:55 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-06-17 19:38:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-06-17 19:38:55 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:grave_ravager": {
+    "criteria": {
+      "grave_ravager_0": "2025-06-17 19:43:41 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bury_them_all": {
+    "criteria": {
+      "bury_them_all_7": "2025-06-17 19:43:42 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
