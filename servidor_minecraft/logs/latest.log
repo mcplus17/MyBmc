@@ -197,3 +197,10 @@
 [17Jun2025 22:46:34.120] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 24dbc027-5eb5-387c-bce8-3d4102d97b9d
 [17Jun2025 22:46:34.120] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Meu_By (24dbc027-5eb5-387c-bce8-3d4102d97b9d) successfully connected to voice chat
 [17Jun2025 22:57:13.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has reached the goal [Dark Creator]
+[17Jun2025 23:14:52.124] [Server thread/INFO] [tombstone/]: The player Benja_By has successfully been saved
+[17Jun2025 23:14:52.370] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Benja_By moved too quickly! 14.132779409945215,3.0,-7.884914058840877
+[17Jun2025 23:23:01.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Creative Mode]
+[17Jun2025 23:23:16.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Survival Mode]
+[17Jun2025 23:24:32.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By fell from a high place
+[17Jun2025 23:24:32.703] [Server thread/INFO] [tombstone/]: The player Meu_By has successfully been saved
+[17Jun2025 23:24:44.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Teleported Meu_By to Benja_By]
