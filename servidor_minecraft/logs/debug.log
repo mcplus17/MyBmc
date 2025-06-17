@@ -4721,3 +4721,18 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [17Jun2025 04:00:56.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [Hans Moleman]
 [17Jun2025 04:01:01.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [Knives Out]
 [17Jun2025 04:01:06.285] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_nether
+[17Jun2025 04:04:55.161] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jun2025 04:04:55.168] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jun2025 04:05:24.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [Chattering Teeth]
+[17Jun2025 04:05:28.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [Bug Repellent]
+[17Jun2025 04:05:30.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has made the advancement [Chattering Teeth]
+[17Jun2025 04:07:36.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has made the advancement [Corrodon't]
+[17Jun2025 04:09:09.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [Take Aim]
+[17Jun2025 04:09:17.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has reached the goal [Big Boy]
+[17Jun2025 04:09:55.152] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jun2025 04:09:55.160] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jun2025 04:10:31.275] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:overworld
+[17Jun2025 04:12:38.288] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_end
+[17Jun2025 04:12:42.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Creative Mode]
+[17Jun2025 04:14:29.275] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:overworld
+[17Jun2025 04:14:34.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has reached the goal [The Black Parade]
