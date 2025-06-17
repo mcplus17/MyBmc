@@ -3029,6 +3029,12 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-06-17 23:34:31 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/decorations/sign_post_cherry": {
     "criteria": {
       "has_item": "2025-06-17 23:21:27 +0000"
@@ -3074,6 +3080,12 @@
   "minecraft:recipes/redstone/cherry_pressure_plate": {
     "criteria": {
       "has_planks": "2025-06-17 23:21:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2025-06-17 23:39:38 +0000"
     },
     "done": true
   },
