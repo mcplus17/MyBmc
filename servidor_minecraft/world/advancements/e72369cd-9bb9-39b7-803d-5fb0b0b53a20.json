@@ -3158,13 +3158,19 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/discover_underzealot": {
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
-      "killed_by_underzealot": "2025-06-17 04:00:48 +0000"
+      "has_potato": "2025-06-17 03:39:13 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-06-17 03:39:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-06-17 03:39:13 +0000"
     },
@@ -3176,39 +3182,45 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/burrowing_arrow": {
-    "criteria": {
-      "burrowing_arrow": "2025-06-17 04:05:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_smelts_to_glass": "2025-06-17 03:47:58 +0000"
     },
     "done": true
   },
-  "born_in_chaos_v1:big_boy": {
+  "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
-      "big_boy_0": "2025-06-17 04:09:17 +0000"
+      "has_sand": "2025-06-17 03:47:58 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato": {
+  "alexscaves:alexscaves/discover_forlorn_hollows": {
     "criteria": {
-      "has_potato": "2025-06-17 03:39:13 +0000"
+      "discover": "2025-06-17 03:58:20 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/defeat_corrodent": {
+  "alexscaves:alexscaves/discover_underzealot": {
     "criteria": {
-      "killed": "2025-06-17 04:07:36 +0000"
+      "killed_by_underzealot": "2025-06-17 04:00:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_bricks": {
+    "criteria": {
+      "has_packed_mud": "2025-06-17 04:01:32 +0000"
     },
     "done": true
   },
   "supplementaries:recipes/decorations/alexscaves/sign_post_thornwood": {
     "criteria": {
       "has_item": "2025-06-17 04:03:32 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/burrowing_arrow": {
+    "criteria": {
+      "burrowing_arrow": "2025-06-17 04:05:30 +0000"
     },
     "done": true
   },
@@ -3224,33 +3236,27 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/discover_forlorn_hollows": {
-    "criteria": {
-      "discover": "2025-06-17 03:58:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_smoking": {
-    "criteria": {
-      "has_potato": "2025-06-17 03:39:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone": {
-    "criteria": {
-      "has_sand": "2025-06-17 03:47:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/dark_oak_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-06-17 04:05:50 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mud_bricks": {
+  "alexscaves:alexscaves/defeat_corrodent": {
     "criteria": {
-      "has_packed_mud": "2025-06-17 04:01:32 +0000"
+      "killed": "2025-06-17 04:07:36 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:big_boy": {
+    "criteria": {
+      "big_boy_0": "2025-06-17 04:09:17 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/underzealot_sacrifice": {
+    "criteria": {
+      "underzealot_sacrifice": "2025-06-17 04:14:34 +0000"
     },
     "done": true
   },
