@@ -3266,5 +3266,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-06-17 18:29:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-06-17 18:29:00 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
