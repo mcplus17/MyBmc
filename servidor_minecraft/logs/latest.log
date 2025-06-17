@@ -203,3 +203,16 @@
 [17Jun2025 02:18:32.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [Cobweb Entanglement]
 [17Jun2025 02:20:13.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Teleported Meu_By to Benja_By]
 [17Jun2025 02:23:19.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [Best Friends Forever]
+[17Jun2025 02:29:22.856] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player e72369cd-9bb9-39b7-803d-5fb0b0b53a20 timed out
+[17Jun2025 02:29:22.856] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Benja_By
+[17Jun2025 02:29:22.857] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Benja_By
+[17Jun2025 02:30:04.333] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Benja_By lost connection: Timed out
+[17Jun2025 02:30:04.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By left the game
+[17Jun2025 02:30:04.335] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Benja_By
+[17Jun2025 02:31:54.300] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Benja_By[/100.101.28.28:34028] logged in with entity id 8208 at (208.92938339257213, 70.0, -2334.699999988079)
+[17Jun2025 02:31:54.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By joined the game
+[17Jun2025 02:31:54.863] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Benja_By (18)
+[17Jun2025 02:31:54.864] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Benja_By
+[17Jun2025 02:32:03.716] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e72369cd-9bb9-39b7-803d-5fb0b0b53a20
+[17Jun2025 02:32:04.743] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e72369cd-9bb9-39b7-803d-5fb0b0b53a20
+[17Jun2025 02:32:04.744] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Benja_By (e72369cd-9bb9-39b7-803d-5fb0b0b53a20) successfully connected to voice chat

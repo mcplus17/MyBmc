@@ -39,8 +39,10 @@
     "criteria": {
       "minecraft:deep_ocean": "2025-06-16 22:22:31 +0000",
       "minecraft:birch_forest": "2025-06-12 21:39:30 +0000",
+      "minecraft:savanna_plateau": "2025-06-17 02:26:10 +0000",
       "minecraft:beach": "2025-06-12 21:00:59 +0000",
       "minecraft:dark_forest": "2025-06-12 22:09:28 +0000",
+      "minecraft:sparse_jungle": "2025-06-17 02:27:13 +0000",
       "minecraft:river": "2025-06-12 21:01:58 +0000",
       "minecraft:stony_shore": "2025-06-16 22:20:10 +0000",
       "minecraft:swamp": "2025-06-12 20:53:58 +0000",
@@ -55,6 +57,7 @@
       "minecraft:old_growth_birch_forest": "2025-06-12 21:04:47 +0000",
       "minecraft:deep_dark": "2025-06-16 19:45:17 +0000",
       "minecraft:meadow": "2025-06-16 19:50:09 +0000",
+      "minecraft:savanna": "2025-06-17 02:22:29 +0000",
       "minecraft:plains": "2025-06-12 21:16:24 +0000"
     },
     "done": false
@@ -2665,6 +2668,18 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-06-17 02:23:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-17 02:23:26 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/slice_map": {
     "criteria": {
       "has_map": "2025-06-17 02:17:34 +0000"
@@ -2676,6 +2691,18 @@
       "in_better_spider_dungeon": "2025-06-17 02:18:32 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-17 02:23:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-17 02:23:26 +0000"
+    },
+    "done": true
   },
   "betterdungeons:spider_dungeon": {
     "criteria": {
