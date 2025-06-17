@@ -3319,3 +3319,24 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [17Jun2025 21:39:20.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Spectator Mode]
 [17Jun2025 21:39:33.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has made the advancement [Quite the Renovation]
 [17Jun2025 21:39:45.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Survival Mode]
+[17Jun2025 21:41:30.756] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:overworld
+[17Jun2025 21:41:45.263] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jun2025 21:41:45.271] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jun2025 21:42:12.373] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Matthew'/701, l='ServerLevel[world]', x=2854.30, y=63.00, z=-4318.63] died, message: 'Matthew was slain by Zombie Villager'
+[17Jun2025 21:42:12.373] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Matthew'/701, l='ServerLevel[world]', x=2854.30, y=63.00, z=-4318.63] died: Matthew was slain by Zombie Villager
+[17Jun2025 21:42:52.724] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Britt'/705, l='ServerLevel[world]', x=2855.70, y=63.75, z=-4317.54] died, message: 'Britt was slain by Zombie Villager'
+[17Jun2025 21:42:52.724] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Britt'/705, l='ServerLevel[world]', x=2855.70, y=63.75, z=-4317.54] died: Britt was slain by Zombie Villager
+[17Jun2025 21:42:57.784] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_end
+[17Jun2025 21:43:09.220] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Justin'/707, l='ServerLevel[world]', x=2852.82, y=64.00, z=-4317.48] died, message: 'Justin was slain by Zombie Villager'
+[17Jun2025 21:43:09.220] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Justin'/707, l='ServerLevel[world]', x=2852.82, y=64.00, z=-4317.48] died: Justin was slain by Zombie Villager
+[17Jun2025 21:43:28.132] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Ivory'/706, l='ServerLevel[world]', x=2854.80, y=63.77, z=-4315.62] died, message: 'Ivory was slain by Zombie Villager'
+[17Jun2025 21:43:28.133] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Ivory'/706, l='ServerLevel[world]', x=2854.80, y=63.77, z=-4315.62] died: Ivory was slain by Zombie Villager
+[17Jun2025 21:43:58.090] [Server thread/DEBUG] [mixin/]: Mixing accessors.item.AccessorCooldownInstance from bookshelf.common.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
+[17Jun2025 21:46:45.260] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jun2025 21:46:45.269] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jun2025 21:47:30.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has made the advancement [Double Trouble]
+[17Jun2025 21:48:03.773] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_end
+[17Jun2025 21:48:35.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By was killed by magic whilst trying to escape Missionary
+[17Jun2025 21:48:35.743] [Server thread/DEBUG] [tombstone/]: A new grave of the player Meu_By was created at position [x:2811, y:67, z:-4389, dim:minecraft:overworld]
+[17Jun2025 21:48:35.753] [Server thread/INFO] [tombstone/]: The player Meu_By has successfully been saved
+[17Jun2025 21:49:30.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Teleported Meu_By to Benja_By]

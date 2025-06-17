@@ -865,6 +865,7 @@
       "minecraft:skeleton": "2025-06-12 22:13:09 +0000",
       "minecraft:vindicator": "2025-06-12 22:15:19 +0000",
       "minecraft:spider": "2025-06-12 23:00:06 +0000",
+      "minecraft:witch": "2025-06-17 21:44:57 +0000",
       "minecraft:cave_spider": "2025-06-17 18:58:17 +0000",
       "minecraft:stray": "2025-06-17 18:59:40 +0000",
       "minecraft:vex": "2025-06-17 18:59:30 +0000",
@@ -2997,6 +2998,24 @@
       "bury_them_all_7": "2025-06-17 19:43:42 +0000"
     },
     "done": false
+  },
+  "supplementaries:recipes/sugar_cube": {
+    "criteria": {
+      "has_sugar": "2025-06-17 21:45:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-17 21:45:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-17 21:45:41 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

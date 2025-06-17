@@ -3041,7 +3041,8 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
-      "in_better_spider_dungeon": "2025-06-17 02:18:31 +0000"
+      "in_better_spider_dungeon": "2025-06-17 02:18:31 +0000",
+      "in_better_monster_room": "2025-06-17 21:39:33 +0000"
     },
     "done": false
   },
@@ -3337,6 +3338,12 @@
   "sophisticatedbackpacks:recipes/misc/gold_backpack": {
     "criteria": {
       "has_iron_backpack": "2025-06-17 19:29:16 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2025-06-17 21:39:33 +0000"
     },
     "done": true
   },
