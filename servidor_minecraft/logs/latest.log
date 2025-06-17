@@ -301,3 +301,26 @@
 [17Jun2025 03:22:59.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Spectator Mode]
 [17Jun2025 03:23:22.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Survival Mode]
 [17Jun2025 03:23:36.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has made the advancement [Cool, Cool Cave]
+[17Jun2025 03:24:19.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [The Parrots and the Bats]
+[17Jun2025 03:27:21.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Spectator Mode]
+[17Jun2025 03:27:57.286] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Benja_By lost connection: Disconnected
+[17Jun2025 03:27:57.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By left the game
+[17Jun2025 03:27:57.288] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Benja_By
+[17Jun2025 03:28:11.405] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Benja_By[/100.101.28.28:60138] logged in with entity id 34415 at (3108.5696881482236, 18.43231706099466, -5507.045687718503)
+[17Jun2025 03:28:11.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By joined the game
+[17Jun2025 03:28:12.918] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Benja_By (18)
+[17Jun2025 03:28:12.919] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Benja_By
+[17Jun2025 03:28:17.362] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e72369cd-9bb9-39b7-803d-5fb0b0b53a20
+[17Jun2025 03:28:18.367] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e72369cd-9bb9-39b7-803d-5fb0b0b53a20
+[17Jun2025 03:28:18.368] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Benja_By (e72369cd-9bb9-39b7-803d-5fb0b0b53a20) successfully connected to voice chat
+[17Jun2025 03:28:23.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Survival Mode]
+[17Jun2025 03:28:50.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Spectator Mode]
+[17Jun2025 03:29:11.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Survival Mode]
+[17Jun2025 03:29:57.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Spectator Mode]
+[17Jun2025 03:30:17.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Survival Mode]
+[17Jun2025 03:30:33.434] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player e72369cd-9bb9-39b7-803d-5fb0b0b53a20 timed out
+[17Jun2025 03:30:33.435] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Benja_By
+[17Jun2025 03:30:33.437] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Benja_By
+[17Jun2025 03:31:09.851] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Benja_By lost connection: Timed out
+[17Jun2025 03:31:09.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By left the game
+[17Jun2025 03:31:09.852] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Benja_By

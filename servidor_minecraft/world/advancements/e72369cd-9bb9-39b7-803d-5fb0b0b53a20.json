@@ -50,6 +50,7 @@
       "minecraft:stony_shore": "2025-06-16 19:30:36 +0000",
       "minecraft:snowy_plains": "2025-06-17 02:47:14 +0000",
       "minecraft:snowy_taiga": "2025-06-17 02:47:25 +0000",
+      "minecraft:dripstone_caves": "2025-06-17 03:23:30 +0000",
       "minecraft:swamp": "2025-06-12 19:23:23 +0000",
       "minecraft:grove": "2025-06-16 19:43:55 +0000",
       "minecraft:jagged_peaks": "2025-06-16 20:12:06 +0000",
@@ -776,7 +777,9 @@
       "minecraft:spider": "2025-06-12 22:54:41 +0000",
       "minecraft:creeper": "2025-06-12 22:10:44 +0000",
       "minecraft:slime": "2025-06-12 23:19:25 +0000",
+      "minecraft:cave_spider": "2025-06-17 03:19:59 +0000",
       "minecraft:enderman": "2025-06-12 21:16:42 +0000",
+      "minecraft:stray": "2025-06-17 03:23:48 +0000",
       "minecraft:zombie": "2025-06-12 21:20:25 +0000",
       "minecraft:drowned": "2025-06-12 21:24:43 +0000",
       "minecraft:zombie_villager": "2025-06-12 22:22:05 +0000"
@@ -3145,6 +3148,12 @@
   "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
     "criteria": {
       "has_white_dye": "2025-06-17 02:54:30 +0000"
+    },
+    "done": true
+  },
+  "yungscavebiomes:frosted_caves": {
+    "criteria": {
+      "frosted_caves": "2025-06-17 03:23:36 +0000"
     },
     "done": true
   },
