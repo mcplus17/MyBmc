@@ -3044,6 +3044,49 @@
     },
     "done": true
   },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "trail_ruins_rare": "2025-06-17 02:52:15 +0000",
+      "trail_ruins_common": "2025-06-17 02:50:14 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_light_blue_dye": "2025-06-17 02:50:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_blue_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-06-17 02:50:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_blue_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-06-17 02:50:19 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_light_blue_dye": {
+    "criteria": {
+      "forge:dyes/light_blue": "2025-06-17 02:50:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_blue_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-06-17 02:50:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_candle": {
+    "criteria": {
+      "has_light_blue_dye": "2025-06-17 02:50:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_candle": {
     "criteria": {
       "has_white_dye": "2025-06-17 02:54:30 +0000"
@@ -3053,12 +3096,6 @@
   "supplementaries:recipes/candle_holders/candle_holder_white_dye": {
     "criteria": {
       "forge:dyes/white": "2025-06-17 02:54:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_light_blue_dye": "2025-06-17 02:50:19 +0000"
     },
     "done": true
   },
@@ -3086,12 +3123,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_light_blue_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-06-17 02:50:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
     "criteria": {
       "has_white_dye": "2025-06-17 02:54:30 +0000"
@@ -3104,31 +3135,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_light_blue_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-06-17 02:50:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/salvage_sherd": {
-    "criteria": {
-      "trail_ruins_rare": "2025-06-17 02:52:15 +0000",
-      "trail_ruins_common": "2025-06-17 02:50:14 +0000"
-    },
-    "done": false
-  },
-  "supplementaries:recipes/candle_holders/candle_holder_light_blue_dye": {
-    "criteria": {
-      "forge:dyes/light_blue": "2025-06-17 02:50:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_light_blue_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-06-17 02:50:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_white_wool": {
     "criteria": {
       "has_needed_dye": "2025-06-17 02:54:30 +0000"
@@ -3138,12 +3144,6 @@
   "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
     "criteria": {
       "has_white_dye": "2025-06-17 02:54:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_blue_candle": {
-    "criteria": {
-      "has_light_blue_dye": "2025-06-17 02:50:19 +0000"
     },
     "done": true
   },
