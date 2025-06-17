@@ -3359,5 +3359,17 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:charm_collector": {
+    "criteria": {
+      "charm_collector_3": "2025-06-17 22:57:43 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-06-17 22:52:48 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

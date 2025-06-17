@@ -196,3 +196,4 @@
 [17Jun2025 22:46:33.133] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 24dbc027-5eb5-387c-bce8-3d4102d97b9d
 [17Jun2025 22:46:34.120] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 24dbc027-5eb5-387c-bce8-3d4102d97b9d
 [17Jun2025 22:46:34.120] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Meu_By (24dbc027-5eb5-387c-bce8-3d4102d97b9d) successfully connected to voice chat
+[17Jun2025 22:57:13.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has reached the goal [Dark Creator]
