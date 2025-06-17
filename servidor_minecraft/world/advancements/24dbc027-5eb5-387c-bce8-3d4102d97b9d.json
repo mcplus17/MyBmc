@@ -3053,6 +3053,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/alexscaves/sign_post_thornwood": {
+    "criteria": {
+      "has_item": "2025-06-17 23:48:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_trapdoor": {
     "criteria": {
       "has_planks": "2025-06-17 23:21:27 +0000"
