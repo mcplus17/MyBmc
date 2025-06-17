@@ -3181,6 +3181,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_forlorn_hollows": {
+    "criteria": {
+      "discover": "2025-06-17 03:58:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-06-17 03:39:13 +0000"

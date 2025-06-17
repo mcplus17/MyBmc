@@ -4705,3 +4705,19 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [17Jun2025 03:49:55.165] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [17Jun2025 03:50:50.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Creative Mode]
 [17Jun2025 03:53:12.293] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_nether
+[17Jun2025 03:54:55.178] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jun2025 03:54:55.193] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jun2025 03:56:24.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Survival Mode]
+[17Jun2025 03:56:37.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Creative Mode]
+[17Jun2025 03:56:47.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Survival Mode]
+[17Jun2025 03:56:55.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Teleported Meu_By to Benja_By]
+[17Jun2025 03:57:54.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Creative Mode]
+[17Jun2025 03:58:02.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Survival Mode]
+[17Jun2025 03:58:20.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has reached the goal [Forlornliest Day of My Life]
+[17Jun2025 03:58:21.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has reached the goal [Forlornliest Day of My Life]
+[17Jun2025 03:59:55.160] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jun2025 03:59:55.169] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jun2025 04:00:48.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has made the advancement [Hans Moleman]
+[17Jun2025 04:00:56.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [Hans Moleman]
+[17Jun2025 04:01:01.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [Knives Out]
+[17Jun2025 04:01:06.285] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_nether

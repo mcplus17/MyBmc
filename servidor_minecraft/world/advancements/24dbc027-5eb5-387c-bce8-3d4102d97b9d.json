@@ -51,6 +51,7 @@
       "minecraft:stony_shore": "2025-06-16 22:20:10 +0000",
       "minecraft:snowy_plains": "2025-06-17 02:47:46 +0000",
       "minecraft:snowy_taiga": "2025-06-17 02:48:53 +0000",
+      "minecraft:dripstone_caves": "2025-06-17 03:58:10 +0000",
       "minecraft:swamp": "2025-06-12 20:53:58 +0000",
       "minecraft:grove": "2025-06-16 19:51:45 +0000",
       "minecraft:cold_ocean": "2025-06-12 21:41:59 +0000",
@@ -2792,6 +2793,12 @@
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2025-06-17 03:24:19 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_forlorn_hollows": {
+    "criteria": {
+      "discover": "2025-06-17 03:58:21 +0000"
     },
     "done": true
   },
