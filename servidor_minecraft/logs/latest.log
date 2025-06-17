@@ -217,3 +217,6 @@
 [17Jun2025 19:01:08.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By was slain by Vex
 [17Jun2025 19:01:09.002] [Server thread/INFO] [tombstone/]: The player Meu_By has successfully been saved
 [17Jun2025 19:01:20.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Teleported Meu_By to Benja_By]
+[17Jun2025 19:03:39.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has made the advancement [Local Brewery]
+[17Jun2025 19:04:09.738] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Benja_By moved wrongly!
+[17Jun2025 19:04:40.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has reached the goal [Senior Summoner]
