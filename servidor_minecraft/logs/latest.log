@@ -210,3 +210,28 @@
 [17Jun2025 21:48:35.753] [Server thread/INFO] [tombstone/]: The player Meu_By has successfully been saved
 [17Jun2025 21:49:30.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Teleported Meu_By to Benja_By]
 [17Jun2025 21:50:54.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has reached the goal [Dark Creator]
+[17Jun2025 22:14:18.592] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player e72369cd-9bb9-39b7-803d-5fb0b0b53a20 timed out
+[17Jun2025 22:14:18.592] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Benja_By
+[17Jun2025 22:14:18.593] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Benja_By
+[17Jun2025 22:14:53.367] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Benja_By lost connection: Timed out
+[17Jun2025 22:14:53.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By left the game
+[17Jun2025 22:14:53.371] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Benja_By
+[17Jun2025 22:14:53.409] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[17Jun2025 22:15:31.521] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Benja_By[/100.101.28.28:40144] logged in with entity id 10979 at (2838.1404444100394, 84.4, -4519.995456565176)
+[17Jun2025 22:15:31.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By joined the game
+[17Jun2025 22:15:31.606] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[17Jun2025 22:15:31.975] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Benja_By (18)
+[17Jun2025 22:15:31.975] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Benja_By
+[17Jun2025 22:15:37.731] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e72369cd-9bb9-39b7-803d-5fb0b0b53a20
+[17Jun2025 22:15:38.732] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e72369cd-9bb9-39b7-803d-5fb0b0b53a20
+[17Jun2025 22:15:38.733] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Benja_By (e72369cd-9bb9-39b7-803d-5fb0b0b53a20) successfully connected to voice chat
+[17Jun2025 22:16:49.419] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Meu_By lost connection: Disconnected
+[17Jun2025 22:16:49.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By left the game
+[17Jun2025 22:16:49.420] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Meu_By
+[17Jun2025 22:17:06.085] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Meu_By[/100.86.66.124:52862] logged in with entity id 11144 at (2839.410727641953, 84.0, -4514.862440115648)
+[17Jun2025 22:17:06.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By joined the game
+[17Jun2025 22:17:07.148] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Meu_By (18)
+[17Jun2025 22:17:07.149] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Meu_By
+[17Jun2025 22:17:16.734] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 24dbc027-5eb5-387c-bce8-3d4102d97b9d
+[17Jun2025 22:17:17.666] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 24dbc027-5eb5-387c-bce8-3d4102d97b9d
+[17Jun2025 22:17:17.666] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Meu_By (24dbc027-5eb5-387c-bce8-3d4102d97b9d) successfully connected to voice chat
