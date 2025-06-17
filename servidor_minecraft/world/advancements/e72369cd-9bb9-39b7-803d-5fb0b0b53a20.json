@@ -3347,5 +3347,17 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:double_trouble": {
+    "criteria": {
+      "double_trouble_0": "2025-06-17 21:47:30 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_creator": {
+    "criteria": {
+      "dark_creator_0": "2025-06-17 21:50:54 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
