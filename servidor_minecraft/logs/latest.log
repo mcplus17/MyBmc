@@ -36,3 +36,11 @@
 [18Jun2025 01:22:16.917] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Benja_By moved wrongly!
 [18Jun2025 01:24:55.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By fell from a high place
 [18Jun2025 01:24:55.271] [Server thread/INFO] [tombstone/]: The player Benja_By has successfully been saved
+[18Jun2025 01:27:53.817] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Meu_By moved wrongly!
+[18Jun2025 01:28:27.816] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Meu_By moved wrongly!
+[18Jun2025 01:29:33.565] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Meu_By moved wrongly!
+[18Jun2025 01:30:12.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Creative Mode]
+[18Jun2025 01:30:26.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Survival Mode]
+[18Jun2025 01:31:51.719] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Benja_By moved wrongly!
+[18Jun2025 01:31:57.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By was doomed to fall
+[18Jun2025 01:31:57.237] [Server thread/INFO] [tombstone/]: The player Meu_By has successfully been saved
