@@ -44,3 +44,12 @@
 [18Jun2025 01:31:51.719] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Benja_By moved wrongly!
 [18Jun2025 01:31:57.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By was doomed to fall
 [18Jun2025 01:31:57.237] [Server thread/INFO] [tombstone/]: The player Meu_By has successfully been saved
+[18Jun2025 01:40:18.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By fell from a high place
+[18Jun2025 01:40:18.292] [Server thread/INFO] [tombstone/]: The player Meu_By has successfully been saved
+[18Jun2025 01:40:48.284] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Meu_By moved wrongly!
+[18Jun2025 01:42:26.614] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Meu_By lost connection: Disconnected
+[18Jun2025 01:42:26.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By left the game
+[18Jun2025 01:42:26.615] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Meu_By
+[18Jun2025 01:42:44.019] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Benja_By lost connection: Disconnected
+[18Jun2025 01:42:44.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By left the game
+[18Jun2025 01:42:44.020] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Benja_By
