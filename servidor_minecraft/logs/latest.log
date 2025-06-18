@@ -25,3 +25,5 @@
 [18Jun2025 00:40:10.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Creative Mode]
 [18Jun2025 00:45:10.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [We Need to Go Deeper]
 [18Jun2025 00:45:42.156] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Benja_By moved too quickly! 7.135345502877499,-0.41999998688697815,7.156208307135785
+[18Jun2025 01:01:09.266] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Benja_By moved too quickly! -0.6404740540492639,-9.892043274652721,2.373172351645735
+[18Jun2025 01:03:17.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Survival Mode]
