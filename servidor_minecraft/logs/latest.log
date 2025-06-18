@@ -277,3 +277,25 @@
 [18Jun2025 19:18:23.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Played sound minecraft:entity.creeper.primed to Meu_By]
 [18Jun2025 19:18:58.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [Voluntary Exile]
 [18Jun2025 19:19:36.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Survival Mode]
+[18Jun2025 19:23:28.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has made the advancement [Junior Summoner]
+[18Jun2025 19:24:23.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By withered away
+[18Jun2025 19:24:23.292] [Server thread/INFO] [tombstone/]: The player Benja_By has successfully been saved
+[18Jun2025 19:25:01.194] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Benja_By moved wrongly!
+[18Jun2025 19:25:25.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By was doomed to fall
+[18Jun2025 19:25:25.741] [Server thread/INFO] [tombstone/]: The player Benja_By has successfully been saved
+[18Jun2025 19:25:33.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Creative Mode]
+[18Jun2025 19:25:46.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Survival Mode]
+[18Jun2025 19:25:52.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has reached the goal [Easy Opening]
+[18Jun2025 19:26:00.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By was slain by Zombie Bruiser
+[18Jun2025 19:26:00.695] [Server thread/INFO] [tombstone/]: The player Meu_By has successfully been saved
+[18Jun2025 19:26:34.790] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Benja_By moved wrongly!
+[18Jun2025 19:30:28.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has reached the goal [Fortuitous Militia]
+[18Jun2025 19:30:38.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has made the advancement [Voluntary Exile]
+[18Jun2025 19:31:01.780] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 24dbc027-5eb5-387c-bce8-3d4102d97b9d timed out
+[18Jun2025 19:31:01.780] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Meu_By
+[18Jun2025 19:31:01.781] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Meu_By
+[18Jun2025 19:31:13.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By was shot by Skeleton
+[18Jun2025 19:31:13.491] [Server thread/INFO] [tombstone/]: The player Meu_By has successfully been saved
+[18Jun2025 19:31:14.286] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 24dbc027-5eb5-387c-bce8-3d4102d97b9d
+[18Jun2025 19:31:15.265] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 24dbc027-5eb5-387c-bce8-3d4102d97b9d
+[18Jun2025 19:31:15.266] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Meu_By (24dbc027-5eb5-387c-bce8-3d4102d97b9d) successfully connected to voice chat

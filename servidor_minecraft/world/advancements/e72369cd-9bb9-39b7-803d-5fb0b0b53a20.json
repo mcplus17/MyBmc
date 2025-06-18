@@ -3654,5 +3654,24 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:squireofthe_dark_lord": {
+    "criteria": {
+      "squireofthe_dark_lord_3": "2025-06-18 19:19:21 +0000",
+      "squireofthe_dark_lord_5": "2025-06-18 19:19:23 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/easy_opening": {
+    "criteria": {
+      "coded_trigger": "2025-06-18 19:25:52 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:junior_summoner": {
+    "criteria": {
+      "junior_summoner_0": "2025-06-18 19:23:28 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
