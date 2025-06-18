@@ -33,3 +33,6 @@
 [18Jun2025 01:11:41.872] [Server thread/INFO] [tombstone/]: The player Benja_By has successfully been saved
 [18Jun2025 01:11:54.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Teleported Benja_By to Meu_By]
 [18Jun2025 01:13:00.789] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Meu_By moved wrongly!
+[18Jun2025 01:22:16.917] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Benja_By moved wrongly!
+[18Jun2025 01:24:55.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By fell from a high place
+[18Jun2025 01:24:55.271] [Server thread/INFO] [tombstone/]: The player Benja_By has successfully been saved
