@@ -221,3 +221,16 @@
 [18Jun2025 18:16:20.567] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Meu_By (24dbc027-5eb5-387c-bce8-3d4102d97b9d) successfully connected to voice chat
 [18Jun2025 18:19:51.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By fell from a high place
 [18Jun2025 18:19:51.312] [Server thread/INFO] [tombstone/]: The player Meu_By has successfully been saved
+[18Jun2025 18:26:45.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By tried to swim in lava
+[18Jun2025 18:26:45.858] [Server thread/INFO] [tombstone/]: The player Meu_By has successfully been saved
+[18Jun2025 18:27:31.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has made the advancement [Good Demoman]
+[18Jun2025 18:27:51.546] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Meu_By moved wrongly!
+[18Jun2025 18:27:52.839] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Meu_By moved wrongly!
+[18Jun2025 18:28:59.789] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Meu_By moved wrongly!
+[18Jun2025 18:30:50.851] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Meu_By moved wrongly!
+[18Jun2025 18:30:52.341] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Meu_By moved wrongly!
+[18Jun2025 18:31:08.503] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Meu_By moved wrongly!
+[18Jun2025 18:31:10.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By fell from a high place
+[18Jun2025 18:31:10.444] [Server thread/INFO] [tombstone/]: The player Meu_By has successfully been saved
+[18Jun2025 18:32:37.256] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Meu_By moved wrongly!
+[18Jun2025 18:32:59.114] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Meu_By moved wrongly!
