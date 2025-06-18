@@ -234,3 +234,10 @@
 [18Jun2025 18:31:10.444] [Server thread/INFO] [tombstone/]: The player Meu_By has successfully been saved
 [18Jun2025 18:32:37.256] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Meu_By moved wrongly!
 [18Jun2025 18:32:59.114] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Meu_By moved wrongly!
+[18Jun2025 18:33:46.637] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Meu_By moved wrongly!
+[18Jun2025 18:41:58.035] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Ken'/623, l='ServerLevel[world]', x=2828.35, y=64.19, z=-4463.30] died, message: 'Ken was slain by Zombie'
+[18Jun2025 18:41:58.036] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Ken'/623, l='ServerLevel[world]', x=2828.35, y=64.19, z=-4463.30] died: Ken was slain by Zombie
+[18Jun2025 18:42:31.138] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Robyn'/565, l='ServerLevel[world]', x=2827.91, y=64.88, z=-4463.31] died, message: 'Robyn was slain by Drowned'
+[18Jun2025 18:42:31.138] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Robyn'/565, l='ServerLevel[world]', x=2827.91, y=64.88, z=-4463.31] died: Robyn was slain by Drowned
+[18Jun2025 18:42:42.189] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Jason'/558, l='ServerLevel[world]', x=2828.29, y=64.73, z=-4465.48] died, message: 'Jason was slain by Drowned'
+[18Jun2025 18:42:42.190] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Jason'/558, l='ServerLevel[world]', x=2828.29, y=64.73, z=-4465.48] died: Jason was slain by Drowned
