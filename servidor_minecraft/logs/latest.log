@@ -250,3 +250,25 @@
 [18Jun2025 19:02:21.237] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Meu_By moved wrongly!
 [18Jun2025 19:02:42.438] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Meu_By moved wrongly!
 [18Jun2025 19:02:46.487] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Meu_By moved wrongly!
+[18Jun2025 19:08:30.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has completed the challenge [Unity with Darkness]
+[18Jun2025 19:08:54.835] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Meu_By lost connection: Disconnected
+[18Jun2025 19:08:54.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By left the game
+[18Jun2025 19:08:54.837] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Meu_By
+[18Jun2025 19:09:27.245] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Meu_By[/100.86.66.124:58963] logged in with entity id 15948 at (2697.7455473716004, 84.0, -4455.259736020434)
+[18Jun2025 19:09:27.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By joined the game
+[18Jun2025 19:09:28.302] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Meu_By (18)
+[18Jun2025 19:09:28.302] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Meu_By
+[18Jun2025 19:09:40.896] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 24dbc027-5eb5-387c-bce8-3d4102d97b9d
+[18Jun2025 19:09:41.949] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 24dbc027-5eb5-387c-bce8-3d4102d97b9d
+[18Jun2025 19:09:41.950] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Meu_By (24dbc027-5eb5-387c-bce8-3d4102d97b9d) successfully connected to voice chat
+[18Jun2025 19:12:15.138] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Benja_By lost connection: Disconnected
+[18Jun2025 19:12:15.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By left the game
+[18Jun2025 19:12:15.139] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Benja_By
+[18Jun2025 19:13:09.346] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Benja_By[/100.101.28.28:37598] logged in with entity id 16580 at (2704.499488899116, 63.0, -4454.675013976553)
+[18Jun2025 19:13:09.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By joined the game
+[18Jun2025 19:13:09.705] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Meu_By moved wrongly!
+[18Jun2025 19:13:09.863] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Benja_By (18)
+[18Jun2025 19:13:09.863] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Benja_By
+[18Jun2025 19:13:15.980] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e72369cd-9bb9-39b7-803d-5fb0b0b53a20
+[18Jun2025 19:13:16.986] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e72369cd-9bb9-39b7-803d-5fb0b0b53a20
+[18Jun2025 19:13:16.986] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Benja_By (e72369cd-9bb9-39b7-803d-5fb0b0b53a20) successfully connected to voice chat
