@@ -1,2 +1,18 @@
 [18Jun2025 00:00:26.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [That is One Big Pile of...]
 [18Jun2025 00:01:01.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has reached the goal [The Black Parade]
+[18Jun2025 00:05:31.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Teleported Meu_By to Benja_By]
+[18Jun2025 00:05:41.390] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Meu_By lost connection: Disconnected
+[18Jun2025 00:05:41.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By left the game
+[18Jun2025 00:05:41.392] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Meu_By
+[18Jun2025 00:05:57.478] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Meu_By[/100.86.66.124:51231] logged in with entity id 21247 at (7275.8094064691195, -22.08061872281723, -8240.195556295057)
+[18Jun2025 00:05:57.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By joined the game
+[18Jun2025 00:05:58.352] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Meu_By (18)
+[18Jun2025 00:05:58.353] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Meu_By
+[18Jun2025 00:06:04.986] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 24dbc027-5eb5-387c-bce8-3d4102d97b9d
+[18Jun2025 00:06:06.220] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 24dbc027-5eb5-387c-bce8-3d4102d97b9d
+[18Jun2025 00:06:06.220] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Meu_By (24dbc027-5eb5-387c-bce8-3d4102d97b9d) successfully connected to voice chat
+[18Jun2025 00:06:08.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Teleported Meu_By to Benja_By]
+[18Jun2025 00:08:49.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Teleported Meu_By to Benja_By]
+[18Jun2025 00:11:12.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has made the advancement [This is my Boomstick]
+[18Jun2025 00:12:15.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Teleported Meu_By to Benja_By]
+[18Jun2025 00:12:35.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has made the advancement [That is One Big Pile of...]
