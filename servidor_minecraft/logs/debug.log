@@ -3549,3 +3549,9 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [17Jun2025 23:50:39.854] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [17Jun2025 23:51:02.369] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_nether
 [17Jun2025 23:51:17.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has reached the goal [Zombie Doctor]
+[17Jun2025 23:55:39.848] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jun2025 23:55:39.855] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jun2025 00:00:26.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [That is One Big Pile of...]
+[18Jun2025 00:00:39.896] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jun2025 00:00:39.904] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jun2025 00:01:01.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has reached the goal [The Black Parade]
