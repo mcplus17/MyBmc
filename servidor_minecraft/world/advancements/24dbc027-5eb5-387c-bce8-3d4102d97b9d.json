@@ -3127,15 +3127,9 @@
     },
     "done": true
   },
-  "minecraft:nether/explore_nether": {
+  "supplementaries:recipes/soap/piston": {
     "criteria": {
-      "minecraft:crimson_forest": "2025-06-18 00:45:11 +0000"
-    },
-    "done": false
-  },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2025-06-18 00:45:10 +0000"
+      "has_sticky_piston": "2025-06-18 00:26:46 +0000"
     },
     "done": true
   },
@@ -3145,17 +3139,23 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-06-18 00:45:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-06-18 00:45:10 +0000"
     },
     "done": true
   },
-  "supplementaries:recipes/soap/piston": {
+  "minecraft:nether/explore_nether": {
     "criteria": {
-      "has_sticky_piston": "2025-06-18 00:26:46 +0000"
+      "minecraft:crimson_forest": "2025-06-18 00:45:11 +0000"
     },
-    "done": true
+    "done": false
   },
   "DataVersion": 3465
 }
