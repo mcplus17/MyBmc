@@ -196,3 +196,9 @@
 [18Jun2025 17:58:07.540] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Meu_By lost connection: Disconnected
 [18Jun2025 17:58:07.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By left the game
 [18Jun2025 17:58:07.542] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Meu_By
+[18Jun2025 18:08:10.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Creative Mode]
+[18Jun2025 18:08:32.690] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mirna'/5547, l='ServerLevel[world]', x=2709.70, y=63.00, z=-4442.30] died, message: 'Mirna was slain by Benja_By'
+[18Jun2025 18:08:32.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has made the advancement [Neighborhood Brawl]
+[18Jun2025 18:08:32.696] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Mirna'/5547, l='ServerLevel[world]', x=2709.70, y=63.00, z=-4442.30] died: Mirna was slain by Benja_By
+[18Jun2025 18:08:36.493] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Lianne'/5529, l='ServerLevel[world]', x=2711.51, y=63.00, z=-4442.30] died, message: 'Lianne was slain by Benja_By'
+[18Jun2025 18:08:36.493] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Lianne'/5529, l='ServerLevel[world]', x=2711.51, y=63.00, z=-4442.30] died: Lianne was slain by Benja_By

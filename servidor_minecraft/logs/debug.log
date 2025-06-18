@@ -3495,3 +3495,15 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [18Jun2025 17:58:52.761] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Jun2025 17:58:52.769] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [18Jun2025 18:01:19.787] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_end
+[18Jun2025 18:03:52.764] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jun2025 18:03:52.772] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jun2025 18:05:01.796] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_nether
+[18Jun2025 18:06:02.791] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_end
+[18Jun2025 18:08:10.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Creative Mode]
+[18Jun2025 18:08:32.690] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mirna'/5547, l='ServerLevel[world]', x=2709.70, y=63.00, z=-4442.30] died, message: 'Mirna was slain by Benja_By'
+[18Jun2025 18:08:32.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has made the advancement [Neighborhood Brawl]
+[18Jun2025 18:08:32.696] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Mirna'/5547, l='ServerLevel[world]', x=2709.70, y=63.00, z=-4442.30] died: Mirna was slain by Benja_By
+[18Jun2025 18:08:36.493] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Lianne'/5529, l='ServerLevel[world]', x=2711.51, y=63.00, z=-4442.30] died, message: 'Lianne was slain by Benja_By'
+[18Jun2025 18:08:36.493] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Lianne'/5529, l='ServerLevel[world]', x=2711.51, y=63.00, z=-4442.30] died: Lianne was slain by Benja_By
+[18Jun2025 18:08:52.767] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jun2025 18:08:52.775] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
