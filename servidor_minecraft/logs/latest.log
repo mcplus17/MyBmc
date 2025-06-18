@@ -272,3 +272,8 @@
 [18Jun2025 19:13:15.980] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e72369cd-9bb9-39b7-803d-5fb0b0b53a20
 [18Jun2025 19:13:16.986] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e72369cd-9bb9-39b7-803d-5fb0b0b53a20
 [18Jun2025 19:13:16.986] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Benja_By (e72369cd-9bb9-39b7-803d-5fb0b0b53a20) successfully connected to voice chat
+[18Jun2025 19:14:50.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Meu_By> E
+[18Jun2025 19:16:51.189] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Meu_By moved wrongly!
+[18Jun2025 19:18:23.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Played sound minecraft:entity.creeper.primed to Meu_By]
+[18Jun2025 19:18:58.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [Voluntary Exile]
+[18Jun2025 19:19:36.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Survival Mode]

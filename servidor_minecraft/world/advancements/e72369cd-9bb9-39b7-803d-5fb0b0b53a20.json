@@ -3642,15 +3642,15 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:unitywith_darknessachievement": {
-    "criteria": {
-      "unitywith_darknessachievement_0": "2025-06-18 19:08:30 +0000"
-    },
-    "done": true
-  },
   "born_in_chaos_v1:good_demoman": {
     "criteria": {
       "good_demoman_0": "2025-06-18 18:27:31 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:unitywith_darknessachievement": {
+    "criteria": {
+      "unitywith_darknessachievement_0": "2025-06-18 19:08:30 +0000"
     },
     "done": true
   },
