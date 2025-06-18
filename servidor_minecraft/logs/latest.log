@@ -202,3 +202,22 @@
 [18Jun2025 18:08:32.696] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Mirna'/5547, l='ServerLevel[world]', x=2709.70, y=63.00, z=-4442.30] died: Mirna was slain by Benja_By
 [18Jun2025 18:08:36.493] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Lianne'/5529, l='ServerLevel[world]', x=2711.51, y=63.00, z=-4442.30] died, message: 'Lianne was slain by Benja_By'
 [18Jun2025 18:08:36.493] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Lianne'/5529, l='ServerLevel[world]', x=2711.51, y=63.00, z=-4442.30] died: Lianne was slain by Benja_By
+[18Jun2025 18:13:52.198] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Meu_By[/100.86.66.124:58713] logged in with entity id 6332 at (2665.00733951836, -50.65399999767542, -4415.2204776404615)
+[18Jun2025 18:13:52.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By joined the game
+[18Jun2025 18:13:55.997] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Meu_By (18)
+[18Jun2025 18:13:55.998] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Meu_By
+[18Jun2025 18:14:09.027] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 24dbc027-5eb5-387c-bce8-3d4102d97b9d
+[18Jun2025 18:14:09.945] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 24dbc027-5eb5-387c-bce8-3d4102d97b9d
+[18Jun2025 18:14:09.945] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Meu_By (24dbc027-5eb5-387c-bce8-3d4102d97b9d) successfully connected to voice chat
+[18Jun2025 18:15:51.843] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Meu_By lost connection: Disconnected
+[18Jun2025 18:15:51.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By left the game
+[18Jun2025 18:15:51.845] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Meu_By
+[18Jun2025 18:16:09.452] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Meu_By[/100.86.66.124:58733] logged in with entity id 8209 at (2670.85389545071, -48.0, -4425.17608357265)
+[18Jun2025 18:16:09.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By joined the game
+[18Jun2025 18:16:10.014] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Meu_By (18)
+[18Jun2025 18:16:10.015] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Meu_By
+[18Jun2025 18:16:18.948] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 24dbc027-5eb5-387c-bce8-3d4102d97b9d
+[18Jun2025 18:16:20.567] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 24dbc027-5eb5-387c-bce8-3d4102d97b9d
+[18Jun2025 18:16:20.567] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Meu_By (24dbc027-5eb5-387c-bce8-3d4102d97b9d) successfully connected to voice chat
+[18Jun2025 18:19:51.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By fell from a high place
+[18Jun2025 18:19:51.312] [Server thread/INFO] [tombstone/]: The player Meu_By has successfully been saved
