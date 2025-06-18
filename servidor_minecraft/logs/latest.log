@@ -17,3 +17,11 @@
 [18Jun2025 00:12:15.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Teleported Meu_By to Benja_By]
 [18Jun2025 00:12:35.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has made the advancement [That is One Big Pile of...]
 [18Jun2025 00:25:57.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Creative Mode]
+[18Jun2025 00:37:58.429] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Strider['Strider'/27808, l='ServerLevel[world]', x=324.00, y=31.00, z=-575.10]
+[18Jun2025 00:37:58.429] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Strider['Strider'/27809, l='ServerLevel[world]', x=325.00, y=31.00, z=-575.10]
+[18Jun2025 00:37:58.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has made the advancement [We Need to Go Deeper]
+[18Jun2025 00:37:58.981] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[18Jun2025 00:39:56.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Spectator Mode]
+[18Jun2025 00:40:10.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Creative Mode]
+[18Jun2025 00:45:10.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [We Need to Go Deeper]
+[18Jun2025 00:45:42.156] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Benja_By moved too quickly! 7.135345502877499,-0.41999998688697815,7.156208307135785

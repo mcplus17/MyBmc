@@ -3431,9 +3431,21 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-06-18 00:37:59 +0000"
+    },
+    "done": false
+  },
   "supplementaries:recipes/decorations/sign_post_cherry": {
     "criteria": {
       "has_item": "2025-06-18 00:22:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-06-18 00:37:58 +0000"
     },
     "done": true
   },
@@ -3488,6 +3500,12 @@
   "minecraft:recipes/decorations/cherry_sign": {
     "criteria": {
       "has_planks": "2025-06-18 00:22:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-06-18 00:37:58 +0000"
     },
     "done": true
   },
