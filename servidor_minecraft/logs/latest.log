@@ -187,3 +187,14 @@
 [20Jun2025 19:28:04.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By fell from a high place
 [20Jun2025 19:28:04.582] [Server thread/INFO] [tombstone/]: The player Meu_By has successfully been saved
 [20Jun2025 19:39:40.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [What a Deal!]
+[20Jun2025 20:00:04.136] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received invalid discriminator byte 15 on channel sophisticatedcore:channel
+[20Jun2025 20:00:13.046] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received invalid discriminator byte 15 on channel sophisticatedcore:channel
+[20Jun2025 20:00:14.037] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received invalid discriminator byte 15 on channel sophisticatedcore:channel
+[20Jun2025 20:00:14.300] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received invalid discriminator byte 15 on channel sophisticatedcore:channel
+[20Jun2025 20:00:14.483] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received invalid discriminator byte 15 on channel sophisticatedcore:channel
+[20Jun2025 20:00:15.037] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received invalid discriminator byte 15 on channel sophisticatedcore:channel
+[20Jun2025 20:00:30.282] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received invalid discriminator byte 15 on channel sophisticatedcore:channel
+[20Jun2025 20:00:31.874] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received invalid discriminator byte 15 on channel sophisticatedcore:channel
+[20Jun2025 20:00:31.881] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received invalid discriminator byte 15 on channel sophisticatedcore:channel
+[20Jun2025 20:00:32.842] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received invalid discriminator byte 15 on channel sophisticatedcore:channel
+[20Jun2025 20:00:33.014] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received invalid discriminator byte 15 on channel sophisticatedcore:channel
