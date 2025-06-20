@@ -199,3 +199,7 @@
 [20Jun2025 20:00:32.842] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received invalid discriminator byte 15 on channel sophisticatedcore:channel
 [20Jun2025 20:00:33.014] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received invalid discriminator byte 15 on channel sophisticatedcore:channel
 [20Jun2025 20:13:57.159] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[20Jun2025 20:14:56.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Applied effect Bad Omen to Benja_By]
+[20Jun2025 20:21:47.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has reached the goal [Fortuitous Militia]
+[20Jun2025 20:23:07.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has completed the challenge [Hero of the Village]
+[20Jun2025 20:23:07.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has completed the challenge [Hero of the Village]
