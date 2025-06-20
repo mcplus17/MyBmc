@@ -776,6 +776,7 @@
     "criteria": {
       "minecraft:pillager": "2025-06-18 19:30:25 +0000",
       "minecraft:skeleton": "2025-06-12 21:38:38 +0000",
+      "minecraft:ravager": "2025-06-20 20:23:05 +0000",
       "minecraft:vindicator": "2025-06-12 22:13:37 +0000",
       "minecraft:spider": "2025-06-12 22:54:41 +0000",
       "minecraft:creeper": "2025-06-12 22:10:44 +0000",
@@ -3707,6 +3708,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-20 20:16:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-06-20 20:23:07 +0000"
     },
     "done": true
   },

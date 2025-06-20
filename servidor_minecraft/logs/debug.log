@@ -3349,3 +3349,14 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [20Jun2025 20:23:07.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has completed the challenge [Hero of the Village]
 [20Jun2025 20:23:07.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has completed the challenge [Hero of the Village]
 [20Jun2025 20:24:11.218] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_nether
+[20Jun2025 20:24:17.998] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Jun2025 20:24:18.007] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Jun2025 20:24:34.203] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:overworld
+[20Jun2025 20:25:13.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Applied effect Bad Omen to Benja_By]
+[20Jun2025 20:29:17.990] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Jun2025 20:29:17.997] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Jun2025 20:32:21.217] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_nether
+[20Jun2025 20:32:22.215] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_end
+[20Jun2025 20:32:54.203] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:overworld
+[20Jun2025 20:34:17.988] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Jun2025 20:34:17.995] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
