@@ -3725,6 +3725,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-06-21 15:31:58 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:the_wind_darkening": {
     "criteria": {
       "the_wind_darkening_0": "2025-06-21 15:17:41 +0000"
