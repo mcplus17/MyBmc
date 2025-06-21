@@ -781,7 +781,9 @@
       "minecraft:spider": "2025-06-12 22:54:41 +0000",
       "minecraft:creeper": "2025-06-12 22:10:44 +0000",
       "minecraft:slime": "2025-06-12 23:19:25 +0000",
+      "minecraft:zombified_piglin": "2025-06-21 02:57:22 +0000",
       "minecraft:cave_spider": "2025-06-17 03:19:59 +0000",
+      "minecraft:piglin": "2025-06-21 02:53:01 +0000",
       "minecraft:enderman": "2025-06-12 21:16:42 +0000",
       "minecraft:stray": "2025-06-17 03:23:48 +0000",
       "minecraft:silverfish": "2025-06-17 19:37:05 +0000",
@@ -3538,7 +3540,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:crimson_forest": "2025-06-18 00:37:59 +0000"
+      "minecraft:crimson_forest": "2025-06-18 00:37:59 +0000",
+      "minecraft:nether_wastes": "2025-06-21 02:56:01 +0000"
     },
     "done": false
   },
@@ -3771,11 +3774,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-21 02:54:09 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:bury_them_all": {
     "criteria": {
       "bury_them_all_5": "2025-06-21 02:27:32 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-21 02:54:09 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/jack_o_lantern": {
     "criteria": {
@@ -3789,9 +3804,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_nether_gold_ore": {
+    "criteria": {
+      "has_nether_gold_ore": "2025-06-21 02:54:06 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/sulfur_dust": {
     "criteria": {
       "sulfur_dust": "2025-06-21 02:43:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_nether_gold_ore": {
+    "criteria": {
+      "has_nether_gold_ore": "2025-06-21 02:54:06 +0000"
     },
     "done": true
   },
@@ -3816,6 +3843,12 @@
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2025-06-21 02:44:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-06-21 02:51:28 +0000"
     },
     "done": true
   },
