@@ -185,3 +185,5 @@
 [21Jun2025 01:54:38.360] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e72369cd-9bb9-39b7-803d-5fb0b0b53a20
 [21Jun2025 01:54:38.362] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Benja_By (e72369cd-9bb9-39b7-803d-5fb0b0b53a20) successfully connected to voice chat
 [21Jun2025 01:57:09.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Creative Mode]
+[21Jun2025 02:02:02.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Survival Mode]
+[21Jun2025 02:06:11.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Creative Mode]
