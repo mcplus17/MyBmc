@@ -3652,3 +3652,9 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [21Jun2025 13:53:33.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By was slain by Scarlet Persecutor
 [21Jun2025 13:53:33.169] [Server thread/DEBUG] [tombstone/]: A new grave of the player Meu_By was created at position [x:2704, y:63, z:-4486, dim:minecraft:overworld]
 [21Jun2025 13:53:33.188] [Server thread/INFO] [tombstone/]: The player Meu_By has successfully been saved
+[21Jun2025 13:56:01.436] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2025 13:56:01.446] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jun2025 13:59:33.556] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_end
+[21Jun2025 14:01:01.428] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2025 14:01:01.438] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jun2025 14:03:27.554] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_end
