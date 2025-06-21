@@ -225,3 +225,6 @@
 [21Jun2025 15:06:24.361] [Server thread/INFO] [tombstone/]: The player Meu_By has successfully been saved
 [21Jun2025 15:17:41.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [The Wind Darkening]
 [21Jun2025 15:31:58.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [Magic Writing]
+[21Jun2025 15:48:26.398] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Meu_By lost connection: Disconnected
+[21Jun2025 15:48:26.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By left the game
+[21Jun2025 15:48:26.399] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Meu_By
