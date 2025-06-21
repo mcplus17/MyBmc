@@ -3166,6 +3166,36 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-06-20 19:39:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2025-06-20 19:40:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-06-20 20:11:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-06-20 20:15:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-06-20 20:15:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/crimson_button": {
     "criteria": {
       "has_planks": "2025-06-20 20:15:55 +0000"
@@ -3184,12 +3214,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/crimson_planks": {
-    "criteria": {
-      "has_logs": "2025-06-20 20:15:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/crimson_pressure_plate": {
     "criteria": {
       "has_planks": "2025-06-20 20:15:55 +0000"
@@ -3197,6 +3221,42 @@
     "done": true
   },
   "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2025-06-20 20:15:55 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_crimson": {
+    "criteria": {
+      "has_item": "2025-06-20 20:15:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2025-06-20 20:15:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-20 20:15:55 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_crimson": {
+    "criteria": {
+      "has_the_recipe": "2025-06-20 20:15:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2025-06-20 20:15:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
     "criteria": {
       "has_planks": "2025-06-20 20:15:55 +0000"
     },
@@ -3214,21 +3274,15 @@
     },
     "done": true
   },
-  "supplementaries:recipes/decorations/sign_post_crimson": {
+  "supplementaries:recipes/deepslate_lamp": {
     "criteria": {
-      "has_item": "2025-06-20 20:15:55 +0000"
+      "has_shroomlight": "2025-06-20 20:19:03 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/hero_of_the_village": {
+  "supplementaries:recipes/stone_lamp": {
     "criteria": {
-      "hero_of_the_village": "2025-06-20 20:23:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/packed_ice": {
-    "criteria": {
-      "has_ice": "2025-06-20 19:40:49 +0000"
+      "has_shroomlight": "2025-06-20 20:19:03 +0000"
     },
     "done": true
   },
@@ -3238,63 +3292,75 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/crimson_door": {
+  "minecraft:adventure/hero_of_the_village": {
     "criteria": {
-      "has_planks": "2025-06-20 20:15:55 +0000"
+      "hero_of_the_village": "2025-06-20 20:23:07 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/crimson_trapdoor": {
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
-      "has_planks": "2025-06-20 20:15:55 +0000"
+      "has_planks": "2025-06-21 01:56:36 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/trade": {
+  "supplementaries:recipes/sign_post_dark_oak": {
     "criteria": {
-      "traded": "2025-06-20 19:39:40 +0000"
+      "has_the_recipe": "2025-06-21 01:56:36 +0000"
     },
     "done": true
   },
-  "supplementaries:recipes/sign_post_crimson": {
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
-      "has_the_recipe": "2025-06-20 20:15:55 +0000"
+      "has_planks": "2025-06-21 01:56:36 +0000"
     },
     "done": true
   },
-  "supplementaries:recipes/deepslate_lamp": {
+  "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
-      "has_shroomlight": "2025-06-20 20:19:03 +0000"
+      "has_planks": "2025-06-21 01:56:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_wood": {
+  "supplementaries:recipes/decorations/sign_post_dark_oak": {
     "criteria": {
-      "has_log": "2025-06-20 20:11:16 +0000"
+      "has_item": "2025-06-21 01:56:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/crimson_hyphae": {
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
-      "has_log": "2025-06-20 20:15:03 +0000"
+      "has_planks": "2025-06-21 01:56:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/crimson_fence": {
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
-      "has_planks": "2025-06-20 20:15:55 +0000"
+      "has_planks": "2025-06-21 01:56:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/crimson_fence_gate": {
+  "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
-      "has_planks": "2025-06-20 20:15:55 +0000"
+      "has_planks": "2025-06-21 01:56:36 +0000"
     },
     "done": true
   },
-  "supplementaries:recipes/stone_lamp": {
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
     "criteria": {
-      "has_shroomlight": "2025-06-20 20:19:03 +0000"
+      "has_planks": "2025-06-21 01:56:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-06-21 01:56:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-06-21 01:56:36 +0000"
     },
     "done": true
   },
