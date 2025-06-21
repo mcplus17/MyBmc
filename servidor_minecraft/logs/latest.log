@@ -228,3 +228,10 @@
 [21Jun2025 15:48:26.398] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Meu_By lost connection: Disconnected
 [21Jun2025 15:48:26.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By left the game
 [21Jun2025 15:48:26.399] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Meu_By
+[21Jun2025 17:15:15.553] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Meu_By[/100.86.66.124:51550] logged in with entity id 21982 at (2685.389808613276, 7.0, -4663.005184610113)
+[21Jun2025 17:15:15.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By joined the game
+[21Jun2025 17:15:17.806] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Meu_By (18)
+[21Jun2025 17:15:17.806] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Meu_By
+[21Jun2025 17:15:31.390] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 24dbc027-5eb5-387c-bce8-3d4102d97b9d
+[21Jun2025 17:15:32.768] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 24dbc027-5eb5-387c-bce8-3d4102d97b9d
+[21Jun2025 17:15:32.769] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Meu_By (24dbc027-5eb5-387c-bce8-3d4102d97b9d) successfully connected to voice chat
