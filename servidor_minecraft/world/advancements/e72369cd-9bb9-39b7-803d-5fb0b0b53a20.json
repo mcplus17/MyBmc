@@ -3771,5 +3771,29 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:bury_them_all": {
+    "criteria": {
+      "bury_them_all_5": "2025-06-21 02:27:32 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-06-21 02:20:17 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/fodder": {
+    "criteria": {
+      "has_hay_block": "2025-06-21 02:20:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-06-21 02:20:18 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

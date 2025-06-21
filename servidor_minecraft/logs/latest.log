@@ -190,3 +190,11 @@
 [21Jun2025 02:11:49.627] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Benja_By moved too quickly! -5.274359339763578,-3.6292348082512262,8.512045965110701
 [21Jun2025 02:12:27.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [Corrodon't]
 [21Jun2025 02:14:35.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Teleported Meu_By to Benja_By]
+[21Jun2025 02:22:36.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By was slain by Nightmare Stalker
+[21Jun2025 02:22:36.126] [Server thread/INFO] [tombstone/]: The player Meu_By has successfully been saved
+[21Jun2025 02:23:02.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Survival Mode]
+[21Jun2025 02:24:59.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Creative Mode]
+[21Jun2025 02:25:35.953] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Aleen'/12588, l='ServerLevel[world]', x=2835.30, y=72.04, z=-4491.41] died, message: 'Aleen was slain by Zombie'
+[21Jun2025 02:25:35.955] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Aleen'/12588, l='ServerLevel[world]', x=2835.30, y=72.04, z=-4491.41] died: Aleen was slain by Zombie
+[21Jun2025 02:26:31.855] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Jed'/12589, l='ServerLevel[world]', x=2835.30, y=73.16, z=-4491.23] died, message: 'Jed was slain by Drowned'
+[21Jun2025 02:26:31.856] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Jed'/12589, l='ServerLevel[world]', x=2835.30, y=73.16, z=-4491.23] died: Jed was slain by Drowned
