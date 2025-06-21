@@ -222,3 +222,4 @@
 [21Jun2025 03:22:24.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Survival Mode]
 [21Jun2025 03:30:05.875] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Meu_By moved too quickly! 9.151112256192391,2.516794094404375,-3.724180693720882
 [21Jun2025 03:31:51.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Creative Mode]
+[21Jun2025 03:34:17.516] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2700, y=86, z=-4460} BlockPos{x=2699, y=85, z=-4460}
