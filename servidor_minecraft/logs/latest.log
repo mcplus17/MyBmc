@@ -208,3 +208,12 @@
 [21Jun2025 02:52:17.754] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2311ms or 46 ticks behind
 [21Jun2025 02:53:36.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Creative Mode]
 [21Jun2025 02:54:05.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Survival Mode]
+[21Jun2025 03:07:10.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has made the advancement [Those Were the Days]
+[21Jun2025 03:07:12.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [Those Were the Days]
+[21Jun2025 03:08:58.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Teleported Meu_By to Benja_By]
+[21Jun2025 03:09:03.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Teleported Meu_By to Benja_By]
+[21Jun2025 03:09:04.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By burned to death
+[21Jun2025 03:09:04.103] [Server thread/INFO] [tombstone/]: The player Meu_By has successfully been saved
+[21Jun2025 03:09:12.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Teleported Meu_By to Benja_By]
+[21Jun2025 03:10:05.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [War Pigs]
+[21Jun2025 03:11:06.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has made the advancement [Who is Cutting Onions?]

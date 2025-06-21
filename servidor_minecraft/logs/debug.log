@@ -3358,3 +3358,18 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [21Jun2025 02:57:44.919] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [21Jun2025 02:57:44.927] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [21Jun2025 02:59:58.142] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:overworld
+[21Jun2025 03:02:44.917] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2025 03:02:44.925] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jun2025 03:04:56.143] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_nether
+[21Jun2025 03:07:10.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has made the advancement [Those Were the Days]
+[21Jun2025 03:07:12.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [Those Were the Days]
+[21Jun2025 03:07:44.918] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2025 03:07:44.925] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jun2025 03:08:58.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Teleported Meu_By to Benja_By]
+[21Jun2025 03:09:03.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Teleported Meu_By to Benja_By]
+[21Jun2025 03:09:04.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By burned to death
+[21Jun2025 03:09:04.102] [Server thread/DEBUG] [tombstone/]: A new grave of the player Meu_By was created at position [x:131, y:36, z:-332, dim:minecraft:the_nether]
+[21Jun2025 03:09:04.103] [Server thread/INFO] [tombstone/]: The player Meu_By has successfully been saved
+[21Jun2025 03:09:12.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Teleported Meu_By to Benja_By]
+[21Jun2025 03:10:05.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [War Pigs]
+[21Jun2025 03:11:06.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has made the advancement [Who is Cutting Onions?]
