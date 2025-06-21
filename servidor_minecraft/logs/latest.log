@@ -219,3 +219,6 @@
 [21Jun2025 03:11:06.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has made the advancement [Who is Cutting Onions?]
 [21Jun2025 03:20:11.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has made the advancement [Hidden in the Depths]
 [21Jun2025 03:20:47.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Spectator Mode]
+[21Jun2025 03:22:24.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Survival Mode]
+[21Jun2025 03:30:05.875] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Meu_By moved too quickly! 9.151112256192391,2.516794094404375,-3.724180693720882
+[21Jun2025 03:31:51.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Creative Mode]
