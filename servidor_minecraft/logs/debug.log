@@ -3340,3 +3340,11 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [21Jun2025 02:37:02.852] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_end
 [21Jun2025 02:37:42.622] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [21Jun2025 02:37:42.630] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jun2025 02:42:42.625] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2025 02:42:42.632] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jun2025 02:43:59.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has made the advancement [Smelly Situation]
+[21Jun2025 02:46:16.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Survival Mode]
+[21Jun2025 02:46:32.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Creative Mode]
+[21Jun2025 02:46:38.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Survival Mode]
+[21Jun2025 02:47:42.624] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2025 02:47:42.632] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

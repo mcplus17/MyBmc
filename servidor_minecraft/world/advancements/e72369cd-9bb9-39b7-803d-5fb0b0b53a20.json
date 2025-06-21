@@ -3789,6 +3789,18 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/sulfur_dust": {
+    "criteria": {
+      "sulfur_dust": "2025-06-21 02:43:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-21 02:44:49 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:grave_ravager": {
     "criteria": {
       "grave_ravager_0": "2025-06-21 02:33:36 +0000"
@@ -3798,6 +3810,12 @@
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-06-21 02:20:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-21 02:44:49 +0000"
     },
     "done": true
   },
