@@ -3789,6 +3789,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:grave_ravager": {
+    "criteria": {
+      "grave_ravager_0": "2025-06-21 02:33:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-06-21 02:20:18 +0000"
