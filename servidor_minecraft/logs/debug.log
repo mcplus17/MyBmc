@@ -3373,3 +3373,10 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [21Jun2025 03:09:12.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Teleported Meu_By to Benja_By]
 [21Jun2025 03:10:05.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [War Pigs]
 [21Jun2025 03:11:06.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has made the advancement [Who is Cutting Onions?]
+[21Jun2025 03:12:44.920] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2025 03:12:44.927] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jun2025 03:15:55.143] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_end
+[21Jun2025 03:17:44.918] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2025 03:17:44.927] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jun2025 03:20:11.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has made the advancement [Hidden in the Depths]
+[21Jun2025 03:20:47.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Spectator Mode]
