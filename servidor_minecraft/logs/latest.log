@@ -240,3 +240,4 @@
 [21Jun2025 17:55:39.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [Life turned out to be a comedy]
 [21Jun2025 18:09:27.603] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2178, y=-48, z=-5532}
 [21Jun2025 18:09:27.604] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2178, y=-48, z=-5533}
+[21Jun2025 18:32:32.839] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2134, y=-19, z=-6000}
