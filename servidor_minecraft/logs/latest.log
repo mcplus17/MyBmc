@@ -243,3 +243,8 @@
 [21Jun2025 18:32:32.839] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2134, y=-19, z=-6000}
 [21Jun2025 19:05:49.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By was slain by Nightmare Stalker
 [21Jun2025 19:05:49.970] [Server thread/INFO] [tombstone/]: The player Meu_By has successfully been saved
+[21Jun2025 19:38:41.253] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Meu_By lost connection: Disconnected
+[21Jun2025 19:38:41.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By left the game
+[21Jun2025 19:38:41.254] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Meu_By
+[21Jun2025 19:40:21.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[21Jun2025 19:40:21.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cerrar<--[HERE]

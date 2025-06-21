@@ -4248,3 +4248,17 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [21Jun2025 19:36:01.418] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [21Jun2025 19:36:01.425] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [21Jun2025 19:36:21.555] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_end
+[21Jun2025 19:38:41.253] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Meu_By lost connection: Disconnected
+[21Jun2025 19:38:41.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By left the game
+[21Jun2025 19:38:41.254] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Meu_By
+[21Jun2025 19:38:41.254] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Meu_By
+[21Jun2025 19:38:41.457] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 24dbc027-5eb5-387c-bce8-3d4102d97b9d does not have a secret
+[21Jun2025 19:40:21.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[21Jun2025 19:40:21.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cerrar<--[HERE]
+[21Jun2025 19:41:01.394] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2025 19:41:01.402] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jun2025 19:42:39.542] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:overworld
+[21Jun2025 19:42:42.543] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_end
+[21Jun2025 19:45:28.542] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:overworld
+[21Jun2025 19:46:01.394] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2025 19:46:01.402] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
