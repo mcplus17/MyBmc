@@ -235,3 +235,4 @@
 [21Jun2025 17:15:31.390] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 24dbc027-5eb5-387c-bce8-3d4102d97b9d
 [21Jun2025 17:15:32.768] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 24dbc027-5eb5-387c-bce8-3d4102d97b9d
 [21Jun2025 17:15:32.769] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Meu_By (24dbc027-5eb5-387c-bce8-3d4102d97b9d) successfully connected to voice chat
+[21Jun2025 17:31:30.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [Once Upon a Cave]
