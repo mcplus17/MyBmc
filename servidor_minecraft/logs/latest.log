@@ -238,3 +238,5 @@
 [21Jun2025 17:31:30.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [Once Upon a Cave]
 [21Jun2025 17:40:34.927] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Meu_By moved too quickly! -0.052505213046515564,-11.798174230684275,0.0
 [21Jun2025 17:55:39.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [Life turned out to be a comedy]
+[21Jun2025 18:09:27.603] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2178, y=-48, z=-5532}
+[21Jun2025 18:09:27.604] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2178, y=-48, z=-5533}
