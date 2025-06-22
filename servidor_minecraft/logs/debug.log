@@ -3285,3 +3285,11 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [22Jun2025 02:24:43.805] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Benja_By (e72369cd-9bb9-39b7-803d-5fb0b0b53a20) successfully connected to voice chat
 [22Jun2025 02:24:43.985] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Benja_By: {disabled=false, disconnected=false, uuid=e72369cd-9bb9-39b7-803d-5fb0b0b53a20, name=Benja_By, group=null}
 [22Jun2025 02:27:22.525] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_end
+[22Jun2025 02:29:09.252] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jun2025 02:29:09.262] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jun2025 02:32:00.182] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:candy_cavity at 1018 -56 -4701 in 0s
+[22Jun2025 02:33:15.506] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:overworld
+[22Jun2025 02:34:09.251] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jun2025 02:34:09.261] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jun2025 02:35:39.519] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_end
+[22Jun2025 02:37:55.731] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:abyssal_chasm at -2430 2 -6052 in 0s
