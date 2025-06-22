@@ -179,3 +179,5 @@
 [22Jun2025 02:24:43.805] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Benja_By (e72369cd-9bb9-39b7-803d-5fb0b0b53a20) successfully connected to voice chat
 [22Jun2025 02:32:00.182] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:candy_cavity at 1018 -56 -4701 in 0s
 [22Jun2025 02:37:55.731] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:abyssal_chasm at -2430 2 -6052 in 0s
+[22Jun2025 02:41:01.532] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Benja_By moved too quickly! 8.878659420978693,-0.08307781780646906,-4.952778026658052
+[22Jun2025 02:42:03.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Creative Mode]
