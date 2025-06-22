@@ -4150,6 +4150,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/stone_tile_wall": {
+    "criteria": {
+      "has_stone_tile": "2025-06-22 03:07:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_purple_dye": "2025-06-22 02:53:53 +0000"
@@ -4180,6 +4186,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/stonecutting/stone_tile_stairs_from_bricks": {
+    "criteria": {
+      "has_stone_tile": "2025-06-22 03:07:44 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_red_dye": {
     "criteria": {
       "forge:dyes/red": "2025-06-22 02:45:10 +0000"
@@ -4204,6 +4216,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/stonecutting/stone_tile_slab": {
+    "criteria": {
+      "has_stone_tile": "2025-06-22 03:07:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_lime_carpet": {
     "criteria": {
       "has_needed_dye": "2025-06-22 02:46:07 +0000"
@@ -4213,6 +4231,12 @@
   "minecraft:recipes/building_blocks/dye_purple_bed": {
     "criteria": {
       "has_needed_dye": "2025-06-22 02:53:53 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stone_tile_slab": {
+    "criteria": {
+      "has_stone_tile": "2025-06-22 03:07:44 +0000"
     },
     "done": true
   },
@@ -4258,6 +4282,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/stone_tile_stairs": {
+    "criteria": {
+      "has_stone_tile": "2025-06-22 03:07:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_orange_wool": {
     "criteria": {
       "has_needed_dye": "2025-06-22 02:47:10 +0000"
@@ -4273,6 +4303,12 @@
   "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_red_dye": "2025-06-22 02:45:10 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/stone_tile_wall_from_bricks": {
+    "criteria": {
+      "has_stone_tile": "2025-06-22 03:07:44 +0000"
     },
     "done": true
   },
